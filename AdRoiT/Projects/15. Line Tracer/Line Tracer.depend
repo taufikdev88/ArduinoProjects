@@ -1,0 +1,297 @@
+# depslib dependency file v1.0
+1434788118 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\main.cpp
+	"../CommonFiles/mySystem.h"
+	"../CommonFiles/myADROIT.h"
+
+1434782226 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mysystem.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myModule.h"
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myUART.h"
+	"myLineSensor.h"
+
+1434779951 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mymodule.h
+
+1434684071 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mydefinitions.h
+
+1434782206 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\myglobalvars.h
+
+1434684193 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mymotor.h
+	"myGlobalVars.h"
+
+1434676615 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mybuzzer.h
+
+1434692476 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mylcd.h
+
+1434010418 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\myadc.h
+
+1434705409 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\myi2c.h
+
+1434713038 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\myimu.h
+	"myMPU6050reg.h"
+
+1433950459 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mympu6050reg.h
+
+1434766299 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mycompass.h
+
+1434784166 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\myuart.h
+
+1432988456 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1434784329 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\include\myadroit.h
+
+1434788210 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mysystem.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myModule.h"
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myUART.h"
+	"myLineSensor.h"
+
+1434788118 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\12. line tracer\\mymodule.h
+
+1434684071 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mydefinitions.h
+
+1434782206 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\myglobalvars.h
+
+1434684193 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mymotor.h
+	"myGlobalVars.h"
+
+1434676615 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mybuzzer.h
+
+1434692476 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mylcd.h
+
+1434010418 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\myadc.h
+
+1434705409 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\myi2c.h
+
+1434713038 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\myimu.h
+	"myMPU6050reg.h"
+
+1433950459 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mympu6050reg.h
+
+1434766299 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mycompass.h
+
+1434784166 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\myuart.h
+
+1432988456 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1434784329 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\commonfiles\myadroit.h
+
+1435269761 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\13. line tracer\main.cpp
+	"myModule.h"
+	"../AdRoiT_Files/mySystem.h"
+	"../AdRoiT_Files/myADROIT.h"
+
+1435269168 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\13. line tracer\mymodule.h
+
+1435164218 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mysystem.h
+	<avr/io.h>
+	<avr/eeprom.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myUART.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myLineSensor.h"
+	"myADROIT.h"
+
+1435195077 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mydefinitions.h
+
+1435198079 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myglobalvars.h
+
+1435162341 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myuart.h
+
+1435163130 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mymotor.h
+	"myGlobalVars.h"
+
+1435160460 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mybuzzer.h
+
+1435206940 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mylcd.h
+
+1435270692 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myadc.h
+
+1435162084 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myi2c.h
+
+1435205957 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myimu.h
+	"myMPU6050reg.h"
+
+1433950459 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mympu6050reg.h
+
+1435205957 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mycompass.h
+
+1435163184 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1435270043 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myadroit.h
+
+1469298069 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\15. line tracer\main.cpp
+	"myModule.h"
+	"../AdRoiT_Files/mySystem.h"
+	"../AdRoiT_Files/myADROIT.h"
+
+1435269168 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\15. line tracer\mymodule.h
+
+1448422866 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mysystem.h
+	<avr/io.h>
+	<avr/eeprom.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myUART.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU_DMP.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myLineSensor.h"
+	"myADROIT.h"
+	"myMPU6050.h"
+
+1441949600 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mydefinitions.h
+
+1435198079 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myglobalvars.h
+
+1435162341 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myuart.h
+
+1435163130 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mymotor.h
+	"myGlobalVars.h"
+
+1435591273 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mybuzzer.h
+
+1435206940 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mylcd.h
+
+1435270692 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myadc.h
+
+1435458626 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myi2c.h
+
+1435676601 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myimu_dmp.h
+	"myMPU6050.h"
+
+1435675306 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mympu6050.h
+	<stdlib.h>
+	<string.h>
+
+1448426998 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myimu.h
+	"myMPU6050.h"
+
+1435310036 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mycompass.h
+
+1435163184 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1469294816 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myadroit.h
+
+1540633571 source:c:\adroit\projects\15. line tracer\main.cpp
+	"myModule.h"
+	"../AdRoiT_Files/mySystem.h"
+	"../AdRoiT_Files/myADROIT.h"
+
+1435269168 c:\adroit\projects\15. line tracer\mymodule.h
+
+1513583816 c:\adroit\projects\adroit_files\mysystem.h
+	<avr/io.h>
+	<avr/eeprom.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myUART.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU_DMP.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myLineSensor.h"
+	"myADROIT.h"
+	"myMPU6050.h"
+
+1441949600 c:\adroit\projects\adroit_files\mydefinitions.h
+
+1435198079 c:\adroit\projects\adroit_files\myglobalvars.h
+
+1435162341 c:\adroit\projects\adroit_files\myuart.h
+
+1435163130 c:\adroit\projects\adroit_files\mymotor.h
+	"myGlobalVars.h"
+
+1435591273 c:\adroit\projects\adroit_files\mybuzzer.h
+
+1435206940 c:\adroit\projects\adroit_files\mylcd.h
+
+1513669899 c:\adroit\projects\adroit_files\myadc.h
+
+1435458626 c:\adroit\projects\adroit_files\myi2c.h
+
+1435676601 c:\adroit\projects\adroit_files\myimu_dmp.h
+	"myMPU6050.h"
+
+1435675306 c:\adroit\projects\adroit_files\mympu6050.h
+	<stdlib.h>
+	<string.h>
+
+1448426998 c:\adroit\projects\adroit_files\myimu.h
+	"myMPU6050.h"
+
+1435310036 c:\adroit\projects\adroit_files\mycompass.h
+
+1435163184 c:\adroit\projects\adroit_files\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1540631161 c:\adroit\projects\adroit_files\myadroit.h
+

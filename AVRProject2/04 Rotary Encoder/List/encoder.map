@@ -1,0 +1,26 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+dCounterKa                                                        0x0500       2
+rx_buffer1                                                        0x0502       8
+rx_wr_index1                                                      0x050A       1
+rx_rd_index1                                                      0x050B       1
+rx_counter1                                                       0x050C       1
+adc_data                                                          0x050D       8
+input_index                                                       0x0515       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+EnkoderKi                                                         R4,R5        2
+EnkoderKa                                                         R6,R7        2
+SpeedKi                                                           R9           1
+SpeedKa                                                           R8           1
+dSpeedKi                                                          R11          1
+dSpeedKa                                                          R10          1
+dCounterKi                                                        R12,R13      2
+rx_buffer_overflow1                                               R2.0      1bit

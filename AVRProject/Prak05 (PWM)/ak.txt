@@ -1,0 +1,9 @@
+analisa dan kesimpulan
+
+1. menciptakan pwm secara software bisa memanfaatkan timer manapun yang intinya adalah kita mengambil fitur di 
+compare match interrupt, digunakan untuk membuat hitungan (counter). contoh kita menganggap frekuensi 100 Hz dalam
+1000 hitungan, jadi kita perlu menciptakan frekuensi interrupt 1000 kali untuk menghitung 0-999. lalu dibuat variable 
+penyimpan nilai pwm untuk mengatur duty cycle
+
+2. menciptakan pwm secara software hanya berkutat dengan nilai OCR , Frekuensi prescale, mode , ICR dll, tanpa membuat
+variable bentukan sendiri

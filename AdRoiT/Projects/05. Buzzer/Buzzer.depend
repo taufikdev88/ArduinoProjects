@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1434661882 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\main.cpp
+	"include/mySystem.h"
+
+1434675965 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mysystem.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myModule.h"
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+
+1434679202 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mymodule.h
+
+1434617327 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mydefinitions.h
+
+1433953622 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\myglobalvars.h
+
+1434677875 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mymotor.h
+	"myGlobalVars.h"
+
+1434676615 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mybuzzer.h
+
+1434546763 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mylcd.h
+
+1434010418 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\myadc.h
+
+1434607687 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\myi2c.h
+
+1434618776 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\myimu.h
+	"myMPU6050reg.h"
+
+1433950459 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mympu6050reg.h
+
+1434619056 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. buzzer\include\mycompass.h
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="..\AdRoiT_Files\myIMU.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15541" topLine="361" />
+		</Cursor>
+	</File>
+	<File name="..\AdRoiT_Files\mySystem.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5689" topLine="158" />
+		</Cursor>
+	</File>
+	<File name="..\AdRoiT_Files\myI2C.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2869" topLine="301" />
+		</Cursor>
+	</File>
+	<File name="..\AdRoiT_Files\myGlobalVars.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="852" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="..\AdRoiT_Files\myDefinitions.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10129" topLine="268" />
+		</Cursor>
+	</File>
+	<File name="..\AdRoiT_Files\myCompass.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6933" topLine="153" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3718" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="..\AdRoiT_Files\myLCD.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8347" topLine="255" />
+		</Cursor>
+	</File>
+	<File name="myModule.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="871" topLine="11" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

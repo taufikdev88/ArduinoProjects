@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4EB8840C
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "D:\Belajar\AVR Project\Prak11 I2C\myLCD.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr2\inc\i2c.h"
+NODE:F LEVEL:0 LINE:33 "main(void)"

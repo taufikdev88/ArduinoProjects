@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4E8C8885
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr2\inc\stdio.h"
+NODE:I LEVEL:0 LINE:27 "D:\Belajar\AVR Project\Prak 05 (PWM)\Hasil Simulasi\myLCD.h"
+NODE:F LEVEL:0 LINE:31 "main(void)"

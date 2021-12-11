@@ -1,0 +1,31 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+Ax                                                                0x0500       2
+Ay                                                                0x0502       2
+Az                                                                0x0504       2
+Gx                                                                0x0506       2
+Gy                                                                0x0508       2
+Gz                                                                0x050A       2
+GxOffset                                                          0x050C       4
+GyOffset                                                          0x0510       4
+GzOffset                                                          0x0514       4
+Roll                                                              0x0518       4
+Pitch                                                             0x051C       4
+Yaw                                                               0x0520       4
+AccRoll                                                           0x0524       4
+P_00                                                              0x0528       4
+P_01                                                              0x052C       4
+P_10                                                              0x0530       4
+P_11                                                              0x0534       4
+_seed                                                             0x0538       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+LaguOn                                                            R2.0      1bit
+IMU_Start                                                         R2.2      1bit

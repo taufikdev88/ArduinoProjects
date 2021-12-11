@@ -1,0 +1,76 @@
+typedef int (*callbackFunctionArgument) (const int arg1, const int arg2);
+
+typedef void (*callbackFunction)(void);
+
+
+class testcallback {
+public:
+    //{ 
+    void voidCallback(callbackFunction newFunction) {
+      Serial.println("VOIDCALLBACK::INIT!");
+      _voidCallback = newFunction;
+    }
+    void RunvoidCallBack() {
+      _voidCallback();
+    }
+    //}
+
+    //{
+    int FunctionArgument1(callbackFunctionArgument newFunction) {
+    Serial.println("FUNCTIONARGUMENT1::INIT!");
+    _FunctionArgument1 = newFunction;
+    }
+    void RunCallbackArg1(int value1, int value2) {
+    Serial.println("Return value from local function 1:" + String(_FunctionArgument1(value1,value2)));
+    }
+    //}
+    //{
+    int FunctionArgument2(callbackFunctionArgument newFunction) {
+      Serial.println("FUNCTIONARGUMENT2::INIT!");
+      _FunctionArgument2 = newFunction;
+    }
+    void RunCallbackArg2(int value1, int value2) {
+      Serial.println("Return value from local function 2:" + String(_FunctionArgument2(value1,value2)));
+    }
+    //}
+
+
+private:
+    callbackFunction _voidCallback;
+
+    callbackFunctionArgument _FunctionArgument1;
+    callbackFunctionArgument _FunctionArgument2;
+
+};
+
+testcallback d;
+void setup() {
+    Serial.begin(115200);
+
+    d.voidCallback(CallbackVOID);
+    d.FunctionArgument1(CallbackINT1); //pass the callback to local functions
+    d.FunctionArgument2(CallbackINT2); //pass the callback to local function
+
+    d.RunvoidCallBack();
+    delay(2000);
+    d.RunCallbackArg1(8,16);
+    delay(2000);
+    d.RunCallbackArg2(1,2);
+
+}
+void CallbackVOID() {
+    Serial.println("\nCallbackVOID entered!");
+}
+int CallbackINT1(int a, int b) {
+    Serial.println("\nCallbackINT1: a=" + String(a) + "/b=" + String(b));
+    return 32000;
+}
+int CallbackINT2(int a, int b ) {
+    Serial.println("\nCallbackINT2: a=" + String(a) + "/b=" + String(b));
+    return 16;
+}
+
+void loop() {
+// put your main code here, to run repeatedly:
+
+}

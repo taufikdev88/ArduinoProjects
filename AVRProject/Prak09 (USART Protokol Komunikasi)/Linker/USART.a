@@ -1,0 +1,883 @@
+;/*****************************************************
+;This program was produced by the
+;CodeWizardAVR V2.05.3 Standard
+;Automatic Program Generator
+;© Copyright 1998-2011 Pavel Haiduc, HP InfoTech s.r.l.
+;http://www.hpinfotech.com
+;
+;Project :
+;Version :
+;Date    : 5/16/2019
+;Author  : unknown
+;Company :
+;Comments:
+;
+;
+;Chip type               : ATmega8535
+;Program type            : Application
+;AVR Core Clock frequency: 11.059200 MHz
+;Memory model            : Small
+;External RAM size       : 0
+;Data Stack size         : 128
+;*****************************************************/
+;
+;#include <mega8535.h>
+;PCODE: $00000000 VOL: 0
+	#ifndef __SLEEP_DEFINED__
+;PCODE: $00000001 VOL: 0
+	#define __SLEEP_DEFINED__
+;PCODE: $00000002 VOL: 0
+	.EQU __se_bit=0x40
+;PCODE: $00000003 VOL: 0
+	.EQU __sm_mask=0xB0
+;PCODE: $00000004 VOL: 0
+	.EQU __sm_powerdown=0x20
+;PCODE: $00000005 VOL: 0
+	.EQU __sm_powersave=0x30
+;PCODE: $00000006 VOL: 0
+	.EQU __sm_standby=0xA0
+;PCODE: $00000007 VOL: 0
+	.EQU __sm_ext_standby=0xB0
+;PCODE: $00000008 VOL: 0
+	.EQU __sm_adc_noise_red=0x10
+;PCODE: $00000009 VOL: 0
+	.SET power_ctrl_reg=mcucr
+;PCODE: $0000000A VOL: 0
+	#endif
+;PCODE: $0000000B VOL: 0
+;PCODE: $0000000C VOL: 0
+;
+;#include <delay.h>
+;
+;#define LED         PORTB
+;#define DipSwitch   PINC
+;#define PwmA        OCR1A
+;#define PwmB        OCR1B
+;
+;#ifndef RXB8
+;#define RXB8 1
+;#endif
+;
+;#ifndef TXB8
+;#define TXB8 0
+;#endif
+;
+;#ifndef UPE
+;#define UPE 2
+;#endif
+;
+;#ifndef DOR
+;#define DOR 3
+;#endif
+;
+;#ifndef FE
+;#define FE 4
+;#endif
+;
+;#ifndef UDRE
+;#define UDRE 5
+;#endif
+;
+;#ifndef RXC
+;#define RXC 7
+;#endif
+;
+;#define FRAMING_ERROR (1<<FE)
+;#define PARITY_ERROR (1<<UPE)
+;#define DATA_OVERRUN (1<<DOR)
+;#define DATA_REGISTER_EMPTY (1<<UDRE)
+;#define RX_COMPLETE (1<<RXC)
+;
+;// USART Receiver buffer
+;#define RX_BUFFER_SIZE 12
+;char rx_buffer[RX_BUFFER_SIZE];
+;
+;#if RX_BUFFER_SIZE <= 256
+;unsigned char rx_wr_index,rx_rd_index,rx_counter;
+;#else
+;unsigned int rx_wr_index,rx_rd_index,rx_counter;
+;#endif
+;
+;// This flag is set on USART Receiver buffer overflow
+;bit rx_buffer_overflow;
+;
+;// USART Receiver interrupt service routine
+;interrupt [USART_RXC] void usart_rx_isr(void)
+; 0000 0052 {
+
+	.CSEG
+;PCODE: $0000000D VOL: 0
+;PCODE: $0000000E VOL: 0
+; 0000 0053 char status,data;
+; 0000 0054 status=UCSRA;
+;PCODE: $0000000F VOL: 0
+;	status -> R17
+;	data -> R16
+;PCODE: $00000010 VOL: 0
+;PCODE: $00000011 VOL: 0
+; 0000 0055 data=UDR;
+;PCODE: $00000012 VOL: 0
+;PCODE: $00000013 VOL: 0
+; 0000 0056 if ((status & (FRAMING_ERROR | PARITY_ERROR | DATA_OVERRUN))==0)
+;PCODE: $00000014 VOL: 0
+;PCODE: $00000015 VOL: 0
+;PCODE: $00000016 VOL: 0
+; 0000 0057    {
+; 0000 0058    rx_buffer[rx_wr_index++]=data;
+;PCODE: $00000017 VOL: 0
+;PCODE: $00000018 VOL: 0
+;PCODE: $00000019 VOL: 0
+;PCODE: $0000001A VOL: 0
+;PCODE: $0000001B VOL: 0
+; 0000 0059 #if RX_BUFFER_SIZE == 256
+; 0000 005A    // special case for receiver buffer size=256
+; 0000 005B    if (++rx_counter == 0) rx_buffer_overflow=1;
+; 0000 005C #else
+; 0000 005D    if (rx_wr_index == RX_BUFFER_SIZE) rx_wr_index=0;
+;PCODE: $0000001C VOL: 0
+;PCODE: $0000001D VOL: 0
+;PCODE: $0000001E VOL: 0
+;PCODE: $0000001F VOL: 0
+; 0000 005E    if (++rx_counter == RX_BUFFER_SIZE)
+;PCODE: $00000020 VOL: 0
+;PCODE: $00000021 VOL: 0
+;PCODE: $00000022 VOL: 0
+;PCODE: $00000023 VOL: 0
+;PCODE: $00000024 VOL: 0
+; 0000 005F       {
+; 0000 0060       rx_counter=0;
+;PCODE: $00000025 VOL: 0
+; 0000 0061       rx_buffer_overflow=1;
+;PCODE: $00000026 VOL: 0
+;PCODE: $00000027 VOL: 0
+;PCODE: $00000028 VOL: 0
+; 0000 0062       }
+; 0000 0063 #endif
+; 0000 0064    }
+;PCODE: $00000029 VOL: 0
+; 0000 0065 }
+;PCODE: $0000002A VOL: 0
+;PCODE: $0000002B VOL: 0
+;PCODE: $0000002C VOL: 0
+;PCODE: $0000002D VOL: 0
+;PCODE: $0000002E VOL: 0
+;
+;#ifndef _DEBUG_TERMINAL_IO_
+;// Get a character from the USART Receiver buffer
+;#define _ALTERNATE_GETCHAR_
+;#pragma used+
+;char getchar(void)
+; 0000 006C {
+;PCODE: $0000002F VOL: 0
+;PCODE: $00000030 VOL: 0
+; 0000 006D char data;
+; 0000 006E while (rx_counter==0);
+;PCODE: $00000031 VOL: 0
+;	data -> R17
+;PCODE: $00000032 VOL: 0
+;PCODE: $00000033 VOL: 0
+;PCODE: $00000034 VOL: 0
+;PCODE: $00000035 VOL: 0
+;PCODE: $00000036 VOL: 0
+; 0000 006F data=rx_buffer[rx_rd_index++];
+;PCODE: $00000037 VOL: 0
+;PCODE: $00000038 VOL: 0
+;PCODE: $00000039 VOL: 0
+;PCODE: $0000003A VOL: 0
+;PCODE: $0000003B VOL: 0
+; 0000 0070 #if RX_BUFFER_SIZE != 256
+; 0000 0071 if (rx_rd_index == RX_BUFFER_SIZE) rx_rd_index=0;
+;PCODE: $0000003C VOL: 0
+;PCODE: $0000003D VOL: 0
+;PCODE: $0000003E VOL: 0
+;PCODE: $0000003F VOL: 0
+; 0000 0072 #endif
+; 0000 0073 #asm("cli")
+;PCODE: $00000040 VOL: 0
+;PCODE: $00000041 VOL: 0
+	cli
+;PCODE: $00000042 VOL: 0
+; 0000 0074 --rx_counter;
+;PCODE: $00000043 VOL: 0
+; 0000 0075 #asm("sei")
+;PCODE: $00000044 VOL: 0
+	sei
+;PCODE: $00000045 VOL: 0
+; 0000 0076 return data;
+;PCODE: $00000046 VOL: 0
+;PCODE: $00000047 VOL: 0
+;PCODE: $00000048 VOL: 0
+; 0000 0077 }
+;PCODE: $00000049 VOL: 0
+;#pragma used-
+;#endif
+;
+;// Standard Input/Output functions
+;#include <stdio.h>
+;
+;#define FIRST_ADC_INPUT 0
+;#define LAST_ADC_INPUT 7
+;unsigned char adc_data[LAST_ADC_INPUT-FIRST_ADC_INPUT+1];
+;#define ADC_VREF_TYPE 0x20
+;
+;// ADC interrupt service routine
+;// with auto input scanning
+;interrupt [ADC_INT] void adc_isr(void)
+; 0000 0086 {
+;PCODE: $0000004A VOL: 0
+;PCODE: $0000004B VOL: 0
+; 0000 0087 static unsigned char input_index=0;
+; 0000 0088 // Read the 8 most significant bits
+; 0000 0089 // of the AD conversion result
+; 0000 008A adc_data[input_index]=ADCH;
+;PCODE: $0000004C VOL: 0
+;PCODE: $0000004D VOL: 0
+;PCODE: $0000004E VOL: 0
+;PCODE: $0000004F VOL: 0
+;PCODE: $00000050 VOL: 0
+; 0000 008B // Select next ADC input
+; 0000 008C if (++input_index > (LAST_ADC_INPUT-FIRST_ADC_INPUT))
+;PCODE: $00000051 VOL: 0
+;PCODE: $00000052 VOL: 0
+;PCODE: $00000053 VOL: 0
+;PCODE: $00000054 VOL: 0
+;PCODE: $00000055 VOL: 0
+; 0000 008D    input_index=0;
+;PCODE: $00000056 VOL: 0
+;PCODE: $00000057 VOL: 0
+; 0000 008E ADMUX=(FIRST_ADC_INPUT | (ADC_VREF_TYPE & 0xff))+input_index;
+;PCODE: $00000058 VOL: 0
+;PCODE: $00000059 VOL: 0
+;PCODE: $0000005A VOL: 0
+;PCODE: $0000005B VOL: 0
+; 0000 008F // Delay needed for the stabilization of the ADC input voltage
+; 0000 0090 delay_us(10);
+;PCODE: $0000005C VOL: 0
+; 0000 0091 // Start the AD conversion
+; 0000 0092 ADCSRA|=0x40;
+;PCODE: $0000005D VOL: 0
+;PCODE: $0000005E VOL: 0
+; 0000 0093 }
+;PCODE: $0000005F VOL: 0
+;PCODE: $00000060 VOL: 0
+;PCODE: $00000061 VOL: 0
+;
+;// Declare your global variables here
+;#define Header1 '!'
+;#define Header2 '@'
+;#define Header3 '#'
+;#define Header4 '$'
+;#define Error   '?'
+;#define Tail    '~'
+;
+;void KirimData8Bit(unsigned char x)
+; 0000 009E {   putchar (x/100+48);
+;PCODE: $00000062 VOL: 0
+;PCODE: $00000063 VOL: 0
+;PCODE: $00000064 VOL: 0
+;	x -> Y+0
+;PCODE: $00000065 VOL: 0
+;PCODE: $00000066 VOL: 0
+;PCODE: $00000067 VOL: 0
+;PCODE: $00000068 VOL: 0
+;PCODE: $00000069 VOL: 0
+;PCODE: $0000006A VOL: 0
+;PCODE: $0000006B VOL: 0
+; 0000 009F     putchar ((x/10)%10+48);
+;PCODE: $0000006C VOL: 0
+;PCODE: $0000006D VOL: 0
+;PCODE: $0000006E VOL: 0
+;PCODE: $0000006F VOL: 0
+;PCODE: $00000070 VOL: 0
+;PCODE: $00000071 VOL: 0
+;PCODE: $00000072 VOL: 0
+;PCODE: $00000073 VOL: 0
+;PCODE: $00000074 VOL: 0
+;PCODE: $00000075 VOL: 0
+; 0000 00A0     putchar (x%10+48);
+;PCODE: $00000076 VOL: 0
+;PCODE: $00000077 VOL: 0
+;PCODE: $00000078 VOL: 0
+;PCODE: $00000079 VOL: 0
+;PCODE: $0000007A VOL: 0
+;PCODE: $0000007B VOL: 0
+;PCODE: $0000007C VOL: 0
+; 0000 00A1 }
+;PCODE: $0000007D VOL: 0
+;PCODE: $0000007E VOL: 0
+;PCODE: $0000007F VOL: 0
+;
+;void main(void)
+; 0000 00A4 {
+;PCODE: $00000080 VOL: 0
+; 0000 00A5 // Declare your local variables here
+; 0000 00A6 unsigned char dSerial;  // data yang dibaca dari buffer serial
+; 0000 00A7 unsigned char xData[8]; // buffer data serial untuk proses parsing
+; 0000 00A8 unsigned char index=0;  // data index dari buffer serial saat proses parsing
+; 0000 00A9 bit flagHeader=0;       // penanda apakah header sudah tertangkap / belum saat parsing
+; 0000 00AA unsigned char hasil;
+; 0000 00AB 
+; 0000 00AC // Input/Output Ports initialization
+; 0000 00AD // Port A initialization
+; 0000 00AE // Func7=In Func6=In Func5=In Func4=In Func3=In Func2=In Func1=In Func0=In
+; 0000 00AF // State7=T State6=T State5=T State4=T State3=T State2=T State1=T State0=T
+; 0000 00B0 PORTA=0x00;
+;PCODE: $00000081 VOL: 0
+;	dSerial -> R17
+;	xData -> Y+0
+;	index -> R16
+;	flagHeader -> R15.0
+;	hasil -> R19
+;PCODE: $00000082 VOL: 0
+;PCODE: $00000083 VOL: 0
+;PCODE: $00000084 VOL: 0
+;PCODE: $00000085 VOL: 0
+;PCODE: $00000086 VOL: 0
+; 0000 00B1 DDRA=0x00;
+;PCODE: $00000087 VOL: 0
+;PCODE: $00000088 VOL: 0
+; 0000 00B2 
+; 0000 00B3 // Port B initialization
+; 0000 00B4 // Func7=Out Func6=Out Func5=Out Func4=Out Func3=Out Func2=Out Func1=Out Func0=Out
+; 0000 00B5 // State7=0 State6=0 State5=0 State4=0 State3=0 State2=0 State1=0 State0=0
+; 0000 00B6 PORTB=0x00;
+;PCODE: $00000089 VOL: 0
+;PCODE: $0000008A VOL: 0
+; 0000 00B7 DDRB=0xFF;
+;PCODE: $0000008B VOL: 0
+;PCODE: $0000008C VOL: 0
+; 0000 00B8 
+; 0000 00B9 // Port C initialization
+; 0000 00BA // Func7=In Func6=In Func5=In Func4=In Func3=In Func2=In Func1=In Func0=In
+; 0000 00BB // State7=P State6=P State5=P State4=P State3=P State2=P State1=P State0=P
+; 0000 00BC PORTC=0xFF;
+;PCODE: $0000008D VOL: 0
+;PCODE: $0000008E VOL: 0
+; 0000 00BD DDRC=0x00;
+;PCODE: $0000008F VOL: 0
+;PCODE: $00000090 VOL: 0
+; 0000 00BE 
+; 0000 00BF // Port D initialization
+; 0000 00C0 // Func7=In Func6=In Func5=Out Func4=Out Func3=In Func2=In Func1=In Func0=In
+; 0000 00C1 // State7=T State6=T State5=0 State4=0 State3=T State2=T State1=T State0=T
+; 0000 00C2 PORTD=0x00;
+;PCODE: $00000091 VOL: 0
+;PCODE: $00000092 VOL: 0
+; 0000 00C3 DDRD=0x30;
+;PCODE: $00000093 VOL: 0
+;PCODE: $00000094 VOL: 0
+; 0000 00C4 
+; 0000 00C5 // Timer/Counter 0 initialization
+; 0000 00C6 // Clock source: System Clock
+; 0000 00C7 // Clock value: Timer 0 Stopped
+; 0000 00C8 // Mode: Normal top=0xFF
+; 0000 00C9 // OC0 output: Disconnected
+; 0000 00CA TCCR0=0x00;
+;PCODE: $00000095 VOL: 0
+;PCODE: $00000096 VOL: 0
+; 0000 00CB TCNT0=0x00;
+;PCODE: $00000097 VOL: 0
+;PCODE: $00000098 VOL: 0
+; 0000 00CC OCR0=0x00;
+;PCODE: $00000099 VOL: 0
+;PCODE: $0000009A VOL: 0
+; 0000 00CD 
+; 0000 00CE // Timer/Counter 1 initialization
+; 0000 00CF // Clock source: System Clock
+; 0000 00D0 // Clock value: 11059.200 kHz
+; 0000 00D1 // Mode: Fast PWM top=0x00FF
+; 0000 00D2 // OC1A output: Non-Inv.
+; 0000 00D3 // OC1B output: Non-Inv.
+; 0000 00D4 // Noise Canceler: Off
+; 0000 00D5 // Input Capture on Falling Edge
+; 0000 00D6 // Timer1 Overflow Interrupt: Off
+; 0000 00D7 // Input Capture Interrupt: Off
+; 0000 00D8 // Compare A Match Interrupt: Off
+; 0000 00D9 // Compare B Match Interrupt: Off
+; 0000 00DA TCCR1A=0xA1;
+;PCODE: $0000009B VOL: 0
+;PCODE: $0000009C VOL: 0
+; 0000 00DB TCCR1B=0x09;
+;PCODE: $0000009D VOL: 0
+;PCODE: $0000009E VOL: 0
+; 0000 00DC TCNT1H=0x00;
+;PCODE: $0000009F VOL: 0
+;PCODE: $000000A0 VOL: 0
+; 0000 00DD TCNT1L=0x00;
+;PCODE: $000000A1 VOL: 0
+;PCODE: $000000A2 VOL: 0
+; 0000 00DE ICR1H=0x00;
+;PCODE: $000000A3 VOL: 0
+;PCODE: $000000A4 VOL: 0
+; 0000 00DF ICR1L=0x00;
+;PCODE: $000000A5 VOL: 0
+;PCODE: $000000A6 VOL: 0
+; 0000 00E0 OCR1AH=0x00;
+;PCODE: $000000A7 VOL: 0
+;PCODE: $000000A8 VOL: 0
+; 0000 00E1 OCR1AL=0x00;
+;PCODE: $000000A9 VOL: 0
+;PCODE: $000000AA VOL: 0
+; 0000 00E2 OCR1BH=0x00;
+;PCODE: $000000AB VOL: 0
+;PCODE: $000000AC VOL: 0
+; 0000 00E3 OCR1BL=0x00;
+;PCODE: $000000AD VOL: 0
+;PCODE: $000000AE VOL: 0
+; 0000 00E4 
+; 0000 00E5 // Timer/Counter 2 initialization
+; 0000 00E6 // Clock source: System Clock
+; 0000 00E7 // Clock value: Timer2 Stopped
+; 0000 00E8 // Mode: Normal top=0xFF
+; 0000 00E9 // OC2 output: Disconnected
+; 0000 00EA ASSR=0x00;
+;PCODE: $000000AF VOL: 0
+;PCODE: $000000B0 VOL: 0
+; 0000 00EB TCCR2=0x00;
+;PCODE: $000000B1 VOL: 0
+;PCODE: $000000B2 VOL: 0
+; 0000 00EC TCNT2=0x00;
+;PCODE: $000000B3 VOL: 0
+;PCODE: $000000B4 VOL: 0
+; 0000 00ED OCR2=0x00;
+;PCODE: $000000B5 VOL: 0
+;PCODE: $000000B6 VOL: 0
+; 0000 00EE 
+; 0000 00EF // External Interrupt(s) initialization
+; 0000 00F0 // INT0: Off
+; 0000 00F1 // INT1: Off
+; 0000 00F2 // INT2: Off
+; 0000 00F3 MCUCR=0x00;
+;PCODE: $000000B7 VOL: 0
+;PCODE: $000000B8 VOL: 0
+; 0000 00F4 MCUCSR=0x00;
+;PCODE: $000000B9 VOL: 0
+;PCODE: $000000BA VOL: 0
+; 0000 00F5 
+; 0000 00F6 // Timer(s)/Counter(s) Interrupt(s) initialization
+; 0000 00F7 TIMSK=0x00;
+;PCODE: $000000BB VOL: 0
+;PCODE: $000000BC VOL: 0
+; 0000 00F8 
+; 0000 00F9 // USART initialization
+; 0000 00FA // Communication Parameters: 8 Data, 1 Stop, No Parity
+; 0000 00FB // USART Receiver: On
+; 0000 00FC // USART Transmitter: On
+; 0000 00FD // USART Mode: Asynchronous
+; 0000 00FE // USART Baud Rate: 9600
+; 0000 00FF UCSRA=0x00;
+;PCODE: $000000BD VOL: 0
+;PCODE: $000000BE VOL: 0
+; 0000 0100 UCSRB=0x98;
+;PCODE: $000000BF VOL: 0
+;PCODE: $000000C0 VOL: 0
+; 0000 0101 UCSRC=0x86;
+;PCODE: $000000C1 VOL: 0
+;PCODE: $000000C2 VOL: 0
+; 0000 0102 UBRRH=0x00;
+;PCODE: $000000C3 VOL: 0
+;PCODE: $000000C4 VOL: 0
+; 0000 0103 UBRRL=0x47;
+;PCODE: $000000C5 VOL: 0
+;PCODE: $000000C6 VOL: 0
+; 0000 0104 
+; 0000 0105 // Analog Comparator initialization
+; 0000 0106 // Analog Comparator: Off
+; 0000 0107 // Analog Comparator Input Capture by Timer/Counter 1: Off
+; 0000 0108 ACSR=0x80;
+;PCODE: $000000C7 VOL: 0
+;PCODE: $000000C8 VOL: 0
+; 0000 0109 SFIOR=0x00;
+;PCODE: $000000C9 VOL: 0
+;PCODE: $000000CA VOL: 0
+; 0000 010A 
+; 0000 010B // ADC initialization
+; 0000 010C // ADC Clock frequency: 86.400 kHz
+; 0000 010D // ADC Voltage Reference: AREF pin
+; 0000 010E // ADC High Speed Mode: Off
+; 0000 010F // ADC Auto Trigger Source: ADC Stopped
+; 0000 0110 // Only the 8 most significant bits of
+; 0000 0111 // the AD conversion result are used
+; 0000 0112 ADMUX=FIRST_ADC_INPUT | (ADC_VREF_TYPE & 0xff);
+;PCODE: $000000CB VOL: 0
+;PCODE: $000000CC VOL: 0
+; 0000 0113 ADCSRA=0xCF;
+;PCODE: $000000CD VOL: 0
+;PCODE: $000000CE VOL: 0
+; 0000 0114 SFIOR&=0xEF;
+;PCODE: $000000CF VOL: 0
+;PCODE: $000000D0 VOL: 0
+;PCODE: $000000D1 VOL: 0
+; 0000 0115 
+; 0000 0116 // SPI initialization
+; 0000 0117 // SPI disabled
+; 0000 0118 SPCR=0x00;
+;PCODE: $000000D2 VOL: 0
+;PCODE: $000000D3 VOL: 0
+; 0000 0119 
+; 0000 011A // TWI initialization
+; 0000 011B // TWI disabled
+; 0000 011C TWCR=0x00;
+;PCODE: $000000D4 VOL: 0
+;PCODE: $000000D5 VOL: 0
+; 0000 011D 
+; 0000 011E // Global enable interrupts
+; 0000 011F #asm("sei")
+;PCODE: $000000D6 VOL: 0
+	sei
+;PCODE: $000000D7 VOL: 0
+; 0000 0120 
+; 0000 0121 while (1)
+;PCODE: $000000D8 VOL: 0
+; 0000 0122       {
+; 0000 0123       // Place your code here
+; 0000 0124       dSerial = getchar();    // membaca karakter dari buffer komunikasi serial
+;PCODE: $000000D9 VOL: 0
+;PCODE: $000000DA VOL: 0
+; 0000 0125         if(flagHeader==0)     // jika header belum ketemu
+;PCODE: $000000DB VOL: 0
+;PCODE: $000000DC VOL: 0
+;PCODE: $000000DD VOL: 0
+; 0000 0126         {   if(dSerial==Header1 || dSerial==Header2 || dSerial==Header3 || dSerial==Header4)
+;PCODE: $000000DE VOL: 0
+;PCODE: $000000DF VOL: 0
+;PCODE: $000000E0 VOL: 0
+;PCODE: $000000E1 VOL: 0
+;PCODE: $000000E2 VOL: 0
+;PCODE: $000000E3 VOL: 0
+;PCODE: $000000E4 VOL: 0
+;PCODE: $000000E5 VOL: 0
+;PCODE: $000000E6 VOL: 0
+;PCODE: $000000E7 VOL: 0
+;PCODE: $000000E8 VOL: 0
+;PCODE: $000000E9 VOL: 0
+;PCODE: $000000EA VOL: 0
+;PCODE: $000000EB VOL: 0
+; 0000 0127             {   index = 0;              // index direset
+;PCODE: $000000EC VOL: 0
+;PCODE: $000000ED VOL: 0
+; 0000 0128                 xData[index]=dSerial;   // header disimpan pada xData index ke-0
+;PCODE: $000000EE VOL: 0
+;PCODE: $000000EF VOL: 0
+;PCODE: $000000F0 VOL: 0
+;PCODE: $000000F1 VOL: 0
+;PCODE: $000000F2 VOL: 0
+; 0000 0129                 flagHeader=1;           // flag header aktif
+;PCODE: $000000F3 VOL: 0
+;PCODE: $000000F4 VOL: 0
+;PCODE: $000000F5 VOL: 0
+; 0000 012A             }
+; 0000 012B         }
+;PCODE: $000000F6 VOL: 0
+; 0000 012C         else                        	// jika header sudah ketemu
+;PCODE: $000000F7 VOL: 0
+;PCODE: $000000F8 VOL: 0
+; 0000 012D         {   if (dSerial==Tail)      	// apakah tail data sudah ketemu?
+;PCODE: $000000F9 VOL: 0
+;PCODE: $000000FA VOL: 0
+;PCODE: $000000FB VOL: 0
+; 0000 012E             {   // cek data dari header yang tertangkap
+; 0000 012F                 switch(xData[0])
+;PCODE: $000000FC VOL: 0
+;PCODE: $000000FD VOL: 0
+; 0000 0130                 {   case Header1:   	// digital input
+;PCODE: $000000FE VOL: 0
+;PCODE: $000000FF VOL: 0
+; 0000 0131                         		// dengan data dipswitch di-invert menjadi active high
+; 0000 0132                       	putchar(Header1);
+;PCODE: $00000100 VOL: 0
+;PCODE: $00000101 VOL: 0
+; 0000 0133 KirimData8Bit(~DipSwitch);
+;PCODE: $00000102 VOL: 0
+;PCODE: $00000103 VOL: 0
+;PCODE: $00000104 VOL: 0
+;PCODE: $00000105 VOL: 0
+; 0000 0134                      	putchar(Tail);
+;PCODE: $00000106 VOL: 0
+;PCODE: $00000107 VOL: 0
+; 0000 0135 break;
+;PCODE: $00000108 VOL: 0
+; 0000 0136                     case Header2:   	// digital output
+;PCODE: $00000109 VOL: 0
+;PCODE: $0000010A VOL: 0
+;PCODE: $0000010B VOL: 0
+; 0000 0137                         // parsing data dari string ke desimal
+; 0000 0138                         if(index==3) 	// data benar apabila data =3 karakter
+;PCODE: $0000010C VOL: 0
+;PCODE: $0000010D VOL: 0
+;PCODE: $0000010E VOL: 0
+; 0000 0139                         {  	putchar(Header2);
+;PCODE: $0000010F VOL: 0
+;PCODE: $00000110 VOL: 0
+; 0000 013A   			     hasil = (xData[1]-48)*100;
+;PCODE: $00000111 VOL: 0
+;PCODE: $00000112 VOL: 0
+;PCODE: $00000113 VOL: 0
+;PCODE: $00000114 VOL: 0
+;PCODE: $00000115 VOL: 0
+; 0000 013B                             hasil+= (xData[2]-48)*10;
+;PCODE: $00000116 VOL: 0
+;PCODE: $00000117 VOL: 0
+;PCODE: $00000118 VOL: 0
+;PCODE: $00000119 VOL: 0
+;PCODE: $0000011A VOL: 0
+;PCODE: $0000011B VOL: 0
+; 0000 013C                             hasil+= (xData[3]-48);
+;PCODE: $0000011C VOL: 0
+;PCODE: $0000011D VOL: 0
+;PCODE: $0000011E VOL: 0
+;PCODE: $0000011F VOL: 0
+; 0000 013D                             // dengan data LED di-invert menjadi active high
+; 0000 013E                             LED = ~hasil;
+;PCODE: $00000120 VOL: 0
+;PCODE: $00000121 VOL: 0
+;PCODE: $00000122 VOL: 0
+; 0000 013F                         }
+; 0000 0140                         else putchar(Error);
+;PCODE: $00000123 VOL: 0
+;PCODE: $00000124 VOL: 0
+;PCODE: $00000125 VOL: 0
+;PCODE: $00000126 VOL: 0
+; 0000 0141                         break;
+;PCODE: $00000127 VOL: 0
+;PCODE: $00000128 VOL: 0
+; 0000 0142                     case Header3:
+;PCODE: $00000129 VOL: 0
+;PCODE: $0000012A VOL: 0
+;PCODE: $0000012B VOL: 0
+; 0000 0143                         if(index==0)	// kalau membaca data semua kanal
+;PCODE: $0000012C VOL: 0
+;PCODE: $0000012D VOL: 0
+; 0000 0144                         {   putchar(Header3);
+;PCODE: $0000012E VOL: 0
+;PCODE: $0000012F VOL: 0
+; 0000 0145 	 KirimData8Bit(adc_data[0]);
+;PCODE: $00000130 VOL: 0
+;PCODE: $00000131 VOL: 0
+; 0000 0146                             KirimData8Bit(adc_data[1]);
+;PCODE: $00000132 VOL: 0
+;PCODE: $00000133 VOL: 0
+;PCODE: $00000134 VOL: 0
+; 0000 0147                             KirimData8Bit(adc_data[2]);
+;PCODE: $00000135 VOL: 0
+;PCODE: $00000136 VOL: 0
+;PCODE: $00000137 VOL: 0
+; 0000 0148                             KirimData8Bit(adc_data[3]);
+;PCODE: $00000138 VOL: 0
+;PCODE: $00000139 VOL: 0
+;PCODE: $0000013A VOL: 0
+; 0000 0149                             KirimData8Bit(adc_data[4]);
+;PCODE: $0000013B VOL: 0
+;PCODE: $0000013C VOL: 0
+;PCODE: $0000013D VOL: 0
+; 0000 014A                             KirimData8Bit(adc_data[5]);
+;PCODE: $0000013E VOL: 0
+;PCODE: $0000013F VOL: 0
+;PCODE: $00000140 VOL: 0
+; 0000 014B                             KirimData8Bit(adc_data[6]);
+;PCODE: $00000141 VOL: 0
+;PCODE: $00000142 VOL: 0
+;PCODE: $00000143 VOL: 0
+; 0000 014C                             KirimData8Bit(adc_data[7]);
+;PCODE: $00000144 VOL: 0
+;PCODE: $00000145 VOL: 0
+;PCODE: $00000146 VOL: 0
+; 0000 014D 	 putchar(Tail);
+;PCODE: $00000147 VOL: 0
+;PCODE: $00000148 VOL: 0
+; 0000 014E                         }
+; 0000 014F                         else if (xData[1]>='0' && xData[1]<='7')	// kalau salah satu kanal
+;PCODE: $00000149 VOL: 0
+;PCODE: $0000014A VOL: 0
+;PCODE: $0000014B VOL: 0
+;PCODE: $0000014C VOL: 0
+;PCODE: $0000014D VOL: 0
+;PCODE: $0000014E VOL: 0
+;PCODE: $0000014F VOL: 0
+;PCODE: $00000150 VOL: 0
+;PCODE: $00000151 VOL: 0
+;PCODE: $00000152 VOL: 0
+;PCODE: $00000153 VOL: 0
+;PCODE: $00000154 VOL: 0
+; 0000 0150                         {   putchar(Header3);
+;PCODE: $00000155 VOL: 0
+;PCODE: $00000156 VOL: 0
+; 0000 0151 	 		      KirimData8Bit(adc_data[xData[1]-48]);
+;PCODE: $00000157 VOL: 0
+;PCODE: $00000158 VOL: 0
+;PCODE: $00000159 VOL: 0
+;PCODE: $0000015A VOL: 0
+;PCODE: $0000015B VOL: 0
+;PCODE: $0000015C VOL: 0
+; 0000 0152 	 putchar(Tail);
+;PCODE: $0000015D VOL: 0
+;PCODE: $0000015E VOL: 0
+; 0000 0153                         }
+; 0000 0154                         else putchar(Error);
+;PCODE: $0000015F VOL: 0
+;PCODE: $00000160 VOL: 0
+;PCODE: $00000161 VOL: 0
+;PCODE: $00000162 VOL: 0
+; 0000 0155                         break;
+;PCODE: $00000163 VOL: 0
+;PCODE: $00000164 VOL: 0
+;PCODE: $00000165 VOL: 0
+; 0000 0156                     case Header4:
+;PCODE: $00000166 VOL: 0
+;PCODE: $00000167 VOL: 0
+;PCODE: $00000168 VOL: 0
+; 0000 0157                         if(index==6)// menulis senua kanal
+;PCODE: $00000169 VOL: 0
+;PCODE: $0000016A VOL: 0
+;PCODE: $0000016B VOL: 0
+; 0000 0158                         {   putchar(Header4);
+;PCODE: $0000016C VOL: 0
+;PCODE: $0000016D VOL: 0
+; 0000 0159 	 		      hasil = (xData[1]-48)*100;
+;PCODE: $0000016E VOL: 0
+;PCODE: $0000016F VOL: 0
+;PCODE: $00000170 VOL: 0
+;PCODE: $00000171 VOL: 0
+;PCODE: $00000172 VOL: 0
+; 0000 015A                             hasil+= (xData[2]-48)*10;
+;PCODE: $00000173 VOL: 0
+;PCODE: $00000174 VOL: 0
+;PCODE: $00000175 VOL: 0
+;PCODE: $00000176 VOL: 0
+;PCODE: $00000177 VOL: 0
+;PCODE: $00000178 VOL: 0
+; 0000 015B                             hasil+= (xData[3]-48);
+;PCODE: $00000179 VOL: 0
+;PCODE: $0000017A VOL: 0
+;PCODE: $0000017B VOL: 0
+;PCODE: $0000017C VOL: 0
+; 0000 015C                             PwmA = hasil;
+;PCODE: $0000017D VOL: 0
+;PCODE: $0000017E VOL: 0
+;PCODE: $0000017F VOL: 0
+; 0000 015D                             hasil = (xData[4]-48)*100;
+;PCODE: $00000180 VOL: 0
+;PCODE: $00000181 VOL: 0
+;PCODE: $00000182 VOL: 0
+;PCODE: $00000183 VOL: 0
+;PCODE: $00000184 VOL: 0
+; 0000 015E                             hasil+= (xData[5]-48)*10;
+;PCODE: $00000185 VOL: 0
+;PCODE: $00000186 VOL: 0
+;PCODE: $00000187 VOL: 0
+;PCODE: $00000188 VOL: 0
+;PCODE: $00000189 VOL: 0
+;PCODE: $0000018A VOL: 0
+; 0000 015F                             hasil+= (xData[6]-48);
+;PCODE: $0000018B VOL: 0
+;PCODE: $0000018C VOL: 0
+;PCODE: $0000018D VOL: 0
+;PCODE: $0000018E VOL: 0
+; 0000 0160                             PwmB = hasil;
+;PCODE: $0000018F VOL: 0
+;PCODE: $00000190 VOL: 0
+;PCODE: $00000191 VOL: 0
+; 0000 0161                         }
+; 0000 0162                         else if (xData[1]>='0' && xData[1]<='1')	// kalau salah satu kanal
+;PCODE: $00000192 VOL: 0
+;PCODE: $00000193 VOL: 0
+;PCODE: $00000194 VOL: 0
+;PCODE: $00000195 VOL: 0
+;PCODE: $00000196 VOL: 0
+;PCODE: $00000197 VOL: 0
+;PCODE: $00000198 VOL: 0
+;PCODE: $00000199 VOL: 0
+;PCODE: $0000019A VOL: 0
+;PCODE: $0000019B VOL: 0
+;PCODE: $0000019C VOL: 0
+;PCODE: $0000019D VOL: 0
+; 0000 0163                         {   if(index==4)
+;PCODE: $0000019E VOL: 0
+;PCODE: $0000019F VOL: 0
+;PCODE: $000001A0 VOL: 0
+; 0000 0164                             {   putchar(Header4);
+;PCODE: $000001A1 VOL: 0
+;PCODE: $000001A2 VOL: 0
+; 0000 0165 	 		      	  hasil = (xData[2]-48)*100;
+;PCODE: $000001A3 VOL: 0
+;PCODE: $000001A4 VOL: 0
+;PCODE: $000001A5 VOL: 0
+;PCODE: $000001A6 VOL: 0
+;PCODE: $000001A7 VOL: 0
+; 0000 0166                                 hasil+= (xData[3]-48)*10;
+;PCODE: $000001A8 VOL: 0
+;PCODE: $000001A9 VOL: 0
+;PCODE: $000001AA VOL: 0
+;PCODE: $000001AB VOL: 0
+;PCODE: $000001AC VOL: 0
+;PCODE: $000001AD VOL: 0
+; 0000 0167                                 hasil+= (xData[4]-48);
+;PCODE: $000001AE VOL: 0
+;PCODE: $000001AF VOL: 0
+;PCODE: $000001B0 VOL: 0
+;PCODE: $000001B1 VOL: 0
+; 0000 0168                                 if (xData[1]=='0') PwmA = hasil;
+;PCODE: $000001B2 VOL: 0
+;PCODE: $000001B3 VOL: 0
+;PCODE: $000001B4 VOL: 0
+;PCODE: $000001B5 VOL: 0
+;PCODE: $000001B6 VOL: 0
+;PCODE: $000001B7 VOL: 0
+; 0000 0169                                 else               PwmB = hasil;
+;PCODE: $000001B8 VOL: 0
+;PCODE: $000001B9 VOL: 0
+;PCODE: $000001BA VOL: 0
+;PCODE: $000001BB VOL: 0
+;PCODE: $000001BC VOL: 0
+; 0000 016A                             }
+;PCODE: $000001BD VOL: 0
+; 0000 016B                         }
+;PCODE: $000001BE VOL: 0
+; 0000 016C                         else putchar(Error);
+;PCODE: $000001BF VOL: 0
+;PCODE: $000001C0 VOL: 0
+;PCODE: $000001C1 VOL: 0
+;PCODE: $000001C2 VOL: 0
+; 0000 016D                         break;
+;PCODE: $000001C3 VOL: 0
+;PCODE: $000001C4 VOL: 0
+;PCODE: $000001C5 VOL: 0
+; 0000 016E                 }
+;PCODE: $000001C6 VOL: 0
+; 0000 016F                 flagHeader=0;	// flag disreset setiap ketemu tail (mengharap header baru)
+;PCODE: $000001C7 VOL: 0
+;PCODE: $000001C8 VOL: 0
+;PCODE: $000001C9 VOL: 0
+; 0000 0170             }
+; 0000 0171             else           	// selain tail, maka data disimpan
+;PCODE: $000001CA VOL: 0
+;PCODE: $000001CB VOL: 0
+; 0000 0172             {   if(++index>8)  flagHeader=0;// asumsi data terlalu panjang(error),flag direset
+;PCODE: $000001CC VOL: 0
+;PCODE: $000001CD VOL: 0
+;PCODE: $000001CE VOL: 0
+;PCODE: $000001CF VOL: 0
+;PCODE: $000001D0 VOL: 0
+;PCODE: $000001D1 VOL: 0
+;PCODE: $000001D2 VOL: 0
+;PCODE: $000001D3 VOL: 0
+; 0000 0173                 xData[index] = dSerial;     // selama belum error data disimpan
+;PCODE: $000001D4 VOL: 0
+;PCODE: $000001D5 VOL: 0
+;PCODE: $000001D6 VOL: 0
+;PCODE: $000001D7 VOL: 0
+;PCODE: $000001D8 VOL: 0
+;PCODE: $000001D9 VOL: 0
+; 0000 0174             }
+;PCODE: $000001DA VOL: 0
+; 0000 0175         }
+;PCODE: $000001DB VOL: 0
+; 0000 0176 
+; 0000 0177       }
+;PCODE: $000001DC VOL: 0
+;PCODE: $000001DD VOL: 0
+; 0000 0178 }
+;PCODE: $000001DE VOL: 0
+;PCODE: $000001DF VOL: 0
+;PCODE: $000001E0 VOL: 0
+;PCODE: $000001E1 VOL: 0

@@ -1,0 +1,26 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+SpeedKa                                                           0x0500       2
+SpeedKi                                                           0x0502       2
+step_timer                                                        0x0504       2
+step                                                              0x0506       2
+_dCounterKi                                                       0x0508       1
+_dCounterKa                                                       0x0509       1
+Timer2Tick                                                        0x050A       1
+iErrorMKa                                                         0x050B       1
+lastErrorMKa                                                      0x050C       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+EnkoderKi                                                         R4,R5        2
+EnkoderKa                                                         R6,R7        2
+dCounterKi                                                        R8,R9        2
+dCounterKa                                                        R10,R11      2
+dSpeedKi                                                          R13          1
+dSpeedKa                                                          R12          1

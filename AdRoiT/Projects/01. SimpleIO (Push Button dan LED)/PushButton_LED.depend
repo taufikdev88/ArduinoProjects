@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1434528022 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\main.cpp
+	"include/mySystem.h"
+
+1434675965 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\mysystem.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myModule.h"
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+
+1434678884 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\mymodule.h
+
+1434519430 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\mydefinitions.h
+
+1433953622 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\myglobalvars.h
+
+1434677875 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\mymotor.h
+	"myGlobalVars.h"
+
+1434676615 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\mybuzzer.h
+
+1434546763 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\mylcd.h
+
+1434010418 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\myadc.h
+
+1433695770 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\myi2c.h
+
+1434546545 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\01. simpleio (push button dan led)\include\myimu.h
+	"myMPU6050reg.h"
+
+1434788693 source:c:\adroit projects\projects\01. simpleio (push button dan led)\main.cpp
+	"myModule.h"
+	"../AdRoiT_Files/mySystem.h"
+
+1434678884 c:\adroit projects\projects\01. simpleio (push button dan led)\mymodule.h
+
+1448422866 c:\adroit projects\projects\adroit_files\mysystem.h
+	<avr/io.h>
+	<avr/eeprom.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myUART.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU_DMP.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myLineSensor.h"
+	"myADROIT.h"
+	"myMPU6050.h"
+
+1441949600 c:\adroit projects\projects\adroit_files\mydefinitions.h
+
+1435198079 c:\adroit projects\projects\adroit_files\myglobalvars.h
+
+1435162341 c:\adroit projects\projects\adroit_files\myuart.h
+
+1435163130 c:\adroit projects\projects\adroit_files\mymotor.h
+	"myGlobalVars.h"
+
+1435591273 c:\adroit projects\projects\adroit_files\mybuzzer.h
+
+1435206940 c:\adroit projects\projects\adroit_files\mylcd.h
+
+1435270692 c:\adroit projects\projects\adroit_files\myadc.h
+
+1435458626 c:\adroit projects\projects\adroit_files\myi2c.h
+
+1435676601 c:\adroit projects\projects\adroit_files\myimu_dmp.h
+	"myMPU6050.h"
+
+1435675306 c:\adroit projects\projects\adroit_files\mympu6050.h
+	<stdlib.h>
+	<string.h>
+
+1448426998 c:\adroit projects\projects\adroit_files\myimu.h
+	"myMPU6050.h"
+
+1435310036 c:\adroit projects\projects\adroit_files\mycompass.h
+
+1435163184 c:\adroit projects\projects\adroit_files\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1469294816 c:\adroit projects\projects\adroit_files\myadroit.h
+

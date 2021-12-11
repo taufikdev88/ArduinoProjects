@@ -1,0 +1,1251 @@
+Archive member included because of file (symbol)
+
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__udivmodhi4)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__divmodhi4)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__udivmodsi4)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o (exit)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__do_copy_data)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__do_clear_bss)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__do_global_ctors)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__umulhisi3)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o) (__tablejump_elpm__)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__subsf3)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o) (__addsf3x)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__ltsf2)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__fixsfsi)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__fixunssfsi)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__floatsisf)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o) (__fp_cmp)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_inf)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_nan)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscA)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscB)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o) (__fp_round)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_split3)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_zero)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o (__mulsf3)
+c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__mulsf3x)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ .text          0x00000000        0x0 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z8delay_msj
+                0x00000000       0x14 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z7invSqrtf
+                0x00000000       0x7e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z7inversef
+                0x00000000       0x1e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z4fabsf
+                0x00000000       0x38 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z4iabsi
+                0x00000000        0xc obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z4cabsa
+                0x00000000       0x16 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z11BacaSerial1j
+                0x00000000       0x50 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z8getchar1v
+                0x00000000       0x36 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z8putchar1a
+                0x00000000        0xe obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z12KirimAngka3uj
+                0x00000000       0x7e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z12KirimAngka3si
+                0x00000000       0xa6 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z12KirimAngka4ui
+                0x00000000       0xa0 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z12KirimAngka4si
+                0x00000000       0xca obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z12KirimAngka5uj
+                0x00000000      0x104 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._Z12KirimAngka5si
+                0x00000000      0x12c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myServoC2Ev
+                0x00000000       0x16 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myServo11HitungSudutEh
+                0x00000000       0x34 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myServo12HitungSudut2Eh
+                0x00000000        0xe obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myMotorC2Ev
+                0x00000000       0x20 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myMotor8SpeedPWMEii
+                0x00000000       0x48 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myMotor4StopEv
+                0x00000000       0x1c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myMotor8SpeedPIDEaa
+                0x00000000       0x34 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myMotor16HitungPIDmotorKaEv
+                0x00000000       0x94 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN7myMotor16HitungPIDmotorKiEv
+                0x00000000       0x94 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myBuzzer3OffEv
+                0x00000000        0x8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myBuzzer12SetFrekwensiEj
+                0x00000000       0x90 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myBuzzer4BeepEjj
+                0x00000000       0xb2 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myBuzzer5Nada3Ev
+                0x00000000      0x10c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myBuzzer5Nada4Ev
+                0x00000000      0x10c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myBuzzer9NadaErrorEv
+                0x00000000       0x98 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD7InitCmdEh
+                0x00000000       0x12 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD4DataEh
+                0x00000000       0x52 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD4InitEv
+                0x00000000      0x1e4 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD6GotoXYEhh
+                0x00000000       0xaa obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD4TextEPKc
+                0x00000000       0x96 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD5TulisEhPKc
+                0x00000000      0x11a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD5HapusEv
+                0x00000000       0x56 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD10HapusBarisEh
+                0x00000000       0xf6 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD9HapusKiriEh
+                0x00000000      0x11a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD11HapusTengahEh
+                0x00000000      0x174 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD12HapusPinggirEh
+                0x00000000      0x172 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD9TulisKiriEhPKc
+                0x00000000      0x13c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD10TulisKananEhPKc
+                0x00000000       0xd8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD11TulisTengahEhPKc
+                0x00000000      0x19e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD12TulisPinggirEhPKc
+                0x00000000      0x19c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD6Angka5Ei
+                0x00000000      0x35c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD7Angka5uEj
+                0x00000000      0x2b8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD6Angka4Ei
+                0x00000000      0x2c4 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD7Angka4uEj
+                0x00000000      0x21a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD6Angka3Ei
+                0x00000000      0x222 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD7Angka3uEj
+                0x00000000      0x178 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD5sByteEa
+                0x00000000      0x1d4 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD5uByteEh
+                0x00000000      0x13a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD5FloatEfh
+                0x00000000      0xd08 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD5BinerEh
+                0x00000000       0x98 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD9BackLightEh
+                0x00000000       0x14 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myADCC2Ev
+                0x00000000        0xa obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myADC4BacaEh
+                0x00000000       0x20 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myADC10BacaBatereEv
+                0x00000000       0x36 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myADC9CekBatereEv
+                0x00000000       0x2a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C4InitEv
+                0x00000000        0xc obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C5StartEh
+                0x00000000       0x46 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C10Start_WaitEh
+                0x00000000       0x4e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C9Rep_StartEh
+                0x00000000       0x46 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C4StopEv
+                0x00000000       0x10 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C5WriteEh
+                0x00000000       0x24 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C7ReadAckEv
+                0x00000000       0x14 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C7ReadNakEv
+                0x00000000       0x14 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C9ReadBytesEhhhPh
+                0x00000000       0xe8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C8ReadWordEhhP9Data16Bit
+                0x00000000       0xc8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C8ReadByteEhhPh
+                0x00000000       0xb2 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C9WriteByteEhhh
+                0x00000000       0x70 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C9WriteWordEhhi
+                0x00000000       0x86 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C10WriteBytesEhhhPh
+                0x00000000       0x90 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C8ReadBitsEhhhhPh
+                0x00000000      0x100 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C7ReadBitEhhhPh
+                0x00000000       0xcc obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C9WriteBitsEhhhhh
+                0x00000000      0x16e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myI2C8WriteBitEhhhh
+                0x00000000       0xce obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN13mySensorGaris9BacaGarisEhh
+                0x00000000       0xc6 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN13mySensorGaris21TungguTombolKalibrasiEhh
+                0x00000000       0x2e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN13mySensorGaris11PesanSensorEv
+                0x00000000      0x12e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN13mySensorGaris19PesanKalibrasiGagalEv
+                0x00000000      0x230 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN13mySensorGaris12KalibrasiRGBEh
+                0x00000000      0x890 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit7MajuPWMEjj
+                0x00000000       0x42 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit9MundurPWMEjj
+                0x00000000       0x42 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit13PutarKananPWMEjj
+                0x00000000       0x42 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit12PutarKiriPWMEjj
+                0x00000000       0x42 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit4StopEv
+                0x00000000       0x46 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit7MajuPIDEhh
+                0x00000000       0x3a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit9MundurPIDEhh
+                0x00000000       0x3a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit13PutarKananPIDEhh
+                0x00000000       0x3a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN8myAdroit12PutarKiriPIDEhh
+                0x00000000       0x3a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGarisC2Ev
+                0x00000000       0x22 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris9CekSensorEhhPh
+                0x00000000       0xa0 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris11ScanCounterEji
+                0x00000000       0xce obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris14ScanBelokKananEjhjhh
+                0x00000000      0x1d4 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris13ScanBelokKiriEjhjhh
+                0x00000000      0x1d4 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris18BelokKananGarisPWMEjj
+                0x00000000       0x88 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris17BelokKiriGarisPWMEjj
+                0x00000000       0x88 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris12SetArahRobotEh
+                0x00000000        0x6 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN11myScanGaris23BelokKiriSampaiGarisPIDEhhh
+                0x00000000       0x80 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x58 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc2 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+LOAD obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+LOAD c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+START GROUP
+LOAD c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+LOAD c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3558
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000008c                . = ALIGN (0x2)
+                0x0000008c                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000008c        0x0 linker stubs
+ *(.trampolines*)
+                0x0000008c                __trampolines_end = .
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+ .ctors         0x0000008c        0x2 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000008e                __ctors_end = .
+                0x0000008e                __dtors_start = .
+ *(.dtors)
+                0x0000008e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000008e        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x0000008e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008e        0xc c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000009a       0x1a c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                0x0000009a                __do_copy_data
+ .init4         0x000000b4       0x10 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x000000b4                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000c4       0x20 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+                0x000000c4                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000e4        0x8 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ec        0x4 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x000000ec                __vector_22
+                0x000000ec                __vector_1
+                0x000000ec                __vector_32
+                0x000000ec                __vector_34
+                0x000000ec                __vector_24
+                0x000000ec                __vector_12
+                0x000000ec                __bad_interrupt
+                0x000000ec                __vector_6
+                0x000000ec                __vector_31
+                0x000000ec                __vector_3
+                0x000000ec                __vector_23
+                0x000000ec                __vector_25
+                0x000000ec                __vector_13
+                0x000000ec                __vector_17
+                0x000000ec                __vector_19
+                0x000000ec                __vector_27
+                0x000000ec                __vector_5
+                0x000000ec                __vector_33
+                0x000000ec                __vector_4
+                0x000000ec                __vector_2
+                0x000000ec                __vector_21
+                0x000000ec                __vector_15
+                0x000000ec                __vector_29
+                0x000000ec                __vector_26
+                0x000000ec                __vector_10
+                0x000000ec                __vector_16
+                0x000000ec                __vector_18
+                0x000000ec                __vector_20
+                0x000000f0                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN13mySensorGaris9BacaGarisEhh.constprop.12
+                0x000000f0       0xca obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD5TulisEhPKc.constprop.31
+                0x000001ba      0x11a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text.__vector_30
+                0x000002d4       0x96 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000002d4                __vector_30
+ .text._ZN8myBuzzer5Nada1Ev
+                0x0000036a      0x10c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000036a                _ZN8myBuzzer5Nada1Ev
+ .text._ZN8myBuzzer5Nada2Ev
+                0x00000476      0x10c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00000476                _ZN8myBuzzer5Nada2Ev
+ .text._ZN5myLCD8PerintahEh
+                0x00000582       0x5e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00000582                _ZN5myLCD8PerintahEh
+ .text._ZN5myLCD9TulisKiriEhPKc.constprop.16
+                0x000005e0      0x100 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myADC9CekBatereEv.part.6
+                0x000006e0      0x1dc obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myADC9CekBatereEv.constprop.13
+                0x000008bc       0x2a obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text._ZN5myLCD10HapusKananEh
+                0x000008e6       0xc6 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000008e6                _ZN5myLCD10HapusKananEh
+ .text._ZN13mySensorGaris22PesanKalibrasiBerhasilEv
+                0x000009ac      0x230 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000009ac                _ZN13mySensorGaris22PesanKalibrasiBerhasilEv
+ .text._ZN13mySensorGaris11KalibrasiRBEh
+                0x00000bdc      0x82e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00000bdc                _ZN13mySensorGaris11KalibrasiRBEh
+ .text._ZN11myScanGaris17UpdateSensorGarisEhh
+                0x0000140a       0x82 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000140a                _ZN11myScanGaris17UpdateSensorGarisEhh
+ .text._ZN11myScanGaris21UpdateSensorPertigaanEhh
+                0x0000148c       0x82 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000148c                _ZN11myScanGaris21UpdateSensorPertigaanEhh
+ .text._ZN11myScanGaris4ScanEj
+                0x0000150e      0x284 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000150e                _ZN11myScanGaris4ScanEj
+ .text._ZN11myScanGaris16ScanSampaiSensorEjh
+                0x00001792      0x132 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00001792                _ZN11myScanGaris16ScanSampaiSensorEjh
+ .text._ZN11myScanGaris16ScanSelamaSensorEjh
+                0x000018c4       0xfe obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000018c4                _ZN11myScanGaris16ScanSelamaSensorEjh
+ .text._ZN11myScanGaris10Scan3KananEj
+                0x000019c2       0x68 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000019c2                _ZN11myScanGaris10Scan3KananEj
+ .text._ZN11myScanGaris9Scan3KiriEj
+                0x00001a2a       0x68 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00001a2a                _ZN11myScanGaris9Scan3KiriEj
+ .text._ZN11myScanGaris10Scan2KananEj
+                0x00001a92       0x68 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00001a92                _ZN11myScanGaris10Scan2KananEj
+ .text._ZN11myScanGaris9Scan2KiriEj
+                0x00001afa       0x68 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00001afa                _ZN11myScanGaris9Scan2KiriEj
+ .text._ZN11myScanGaris11Scan3TengahEj
+                0x00001b62      0x33c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00001b62                _ZN11myScanGaris11Scan3TengahEj
+ .text._ZN11myScanGaris17TungguSensorMasukEh
+                0x00001e9e      0x136 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00001e9e                _ZN11myScanGaris17TungguSensorMasukEh
+ .text._ZN11myScanGaris22TungguSensorKananBelokEv
+                0x00001fd4       0xf8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00001fd4                _ZN11myScanGaris22TungguSensorKananBelokEv
+ .text._ZN11myScanGaris21TungguSensorKiriBelokEv
+                0x000020cc       0xf8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000020cc                _ZN11myScanGaris21TungguSensorKiriBelokEv
+ .text._ZN11myScanGaris18BelokKananGarisPIDEhh
+                0x000021c4       0x7c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000021c4                _ZN11myScanGaris18BelokKananGarisPIDEhh
+ .text._ZN11myScanGaris17BelokKiriGarisPIDEhh
+                0x00002240       0x7c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00002240                _ZN11myScanGaris17BelokKiriGarisPIDEhh
+ .text._ZN11myScanGaris24BelokKananSampaiGarisPIDEhhh
+                0x000022bc       0x80 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000022bc                _ZN11myScanGaris24BelokKananSampaiGarisPIDEhhh
+ .text.__vector_7
+                0x0000233c       0x5c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000233c                __vector_7
+ .text.__vector_8
+                0x00002398       0x5c obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00002398                __vector_8
+ .text.__vector_28
+                0x000023f4       0x52 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000023f4                __vector_28
+ .text.__vector_11
+                0x00002446       0x44 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00002446                __vector_11
+ .text.__vector_14
+                0x0000248a       0x16 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000248a                __vector_14
+ .text.__vector_9
+                0x000024a0      0x1ac obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x000024a0                __vector_9
+ .text._Z10SystemInitv
+                0x0000264c      0x654 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0000264c                _Z10SystemInitv
+ .text.startup.main
+                0x00002ca0      0x7f8 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x00002ca0                main
+ .text.startup._GLOBAL__sub_I__Z8delay_msj
+                0x00003498       0x46 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ .text.libgcc.div
+                0x000034de       0x28 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+                0x000034de                __udivmodhi4
+ .text.libgcc.div
+                0x00003506       0x28 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                0x00003506                _div
+                0x00003506                __divmodhi4
+ .text.libgcc.mul
+                0x0000352e       0x1e c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                0x0000352e                __umulhisi3
+ .text.libgcc   0x0000354c        0x8 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+                0x0000354c                __tablejump_elpm__
+                0x00003554                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003554        0x0 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                0x00003554                _exit
+                0x00003554                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003554        0x4 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003558                _etext = .
+
+.data           0x00800100      0x11a load address 0x00003558
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x2 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800102      0x118 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+ *(.gnu.linkonce.d*)
+                0x0080021a                . = ALIGN (0x2)
+                0x0080021a                _edata = .
+                0x0080021a                PROVIDE (__data_end, .)
+
+.bss            0x0080021a       0x2e
+                0x0080021a                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0080021a       0x2e obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                0x0080021a                xxx
+                0x0080021c                sensor
+                0x0080021d                i2c
+                0x0080021e                adc
+                0x0080021f                lcd
+                0x00800220                buzzer
+                0x00800221                roda
+                0x0080022b                servo
+                0x0080022c                rx_buffer_overflow1
+                0x0080022d                rx_counter1
+                0x0080022e                rx_rd_index1
+                0x0080022f                rx_wr_index1
+                0x00800230                rx_buffer1
+ *(.bss*)
+ *(COMMON)
+                0x00800248                PROVIDE (__bss_end, .)
+                0x00003558                __data_load_start = LOADADDR (.data)
+                0x00003672                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800248        0x0
+                0x00800248                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800248                PROVIDE (__noinit_end, .)
+                0x00800248                _end = .
+                0x00800248                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(bin\Release\Line_Tracer_DB.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+BacaSerial1(unsigned int)                         obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+KirimAngka3s(int)                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+KirimAngka3u(unsigned int)                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+KirimAngka4s(int)                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+KirimAngka4u(int)                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+KirimAngka5s(int)                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+KirimAngka5u(unsigned int)                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+SystemInit()                                      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__addsf3                                          c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__addsf3x                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__bad_interrupt                                   c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__bss_end                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+__cmpsf2                                          c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__ctors_end                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+__ctors_start                                     c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+__data_end                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+__data_start                                      c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__do_clear_bss                                    c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__do_copy_data                                    c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__do_global_ctors                                 c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__eqsf2                                           c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__fixsfsi                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__fixunssfsi                                      c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__floatsisf                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__floatunsisf                                     c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+__fp_cmp                                          c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__fp_inf                                          c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_nan                                          c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_pscA                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_pscB                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_round                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__fp_split3                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_splitA                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+__fp_szero                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+__fp_zero                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__heap_end                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__init                                            c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__lesf2                                           c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__ltsf2                                           c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__mulsf3                                          c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__mulsf3_pse                                      c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+__mulsf3x                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+__nesf2                                           c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__stack                                           c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__subsf3                                          c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__tablejump_elpm__                                c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+__udivmodhi4                                      c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__udivmodsi4                                      c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__umulhisi3                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+__vector_1                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_10                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_11                                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_12                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_13                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_14                                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_15                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_16                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_17                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_18                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_19                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_2                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_20                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_21                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_22                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_23                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_24                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_25                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_26                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_27                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_28                                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_29                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_3                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_30                                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_31                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_32                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_33                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_34                                       c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_4                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_5                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_6                                        c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_7                                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_8                                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_9                                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_default                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vectors                                         c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+_div                                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+_exit                                             c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+adc                                               obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+buzzer                                            obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+cabs(signed char)                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+delay_ms(unsigned int)                            obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+exit                                              c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+fabs(float)                                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+getchar1()                                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+i2c                                               obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+iabs(int)                                         obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+invSqrt(float)                                    obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+inverse(float)                                    obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+lcd                                               obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+main                                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+                                                  c:/adroit/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+myADC::Baca(unsigned char)                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myADC::BacaBatere()                               obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myADC::CekBatere()                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myADC::myADC()                                    obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myADC::myADC()                                    obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::MajuPID(unsigned char, unsigned char)   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::MajuPWM(unsigned int, unsigned int)     obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::MundurPID(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::MundurPWM(unsigned int, unsigned int)   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::PutarKananPID(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::PutarKananPWM(unsigned int, unsigned int) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::PutarKiriPID(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::PutarKiriPWM(unsigned int, unsigned int) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myAdroit::Stop()                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::Beep(unsigned int, unsigned int)        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::Nada1()                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::Nada2()                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::Nada3()                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::Nada4()                                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::NadaError()                             obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::Off()                                   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myBuzzer::SetFrekwensi(unsigned int)              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::Init()                                     obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::ReadAck()                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::ReadBit(unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::ReadBits(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::ReadByte(unsigned char, unsigned char, unsigned char*) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::ReadBytes(unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::ReadNak()                                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::ReadWord(unsigned char, unsigned char, Data16Bit*) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::Rep_Start(unsigned char)                   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::Start(unsigned char)                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::Start_Wait(unsigned char)                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::Stop()                                     obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::Write(unsigned char)                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::WriteBit(unsigned char, unsigned char, unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::WriteBits(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::WriteByte(unsigned char, unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::WriteBytes(unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myI2C::WriteWord(unsigned char, unsigned char, int) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Angka3(int)                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Angka3u(unsigned int)                      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Angka4(int)                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Angka4u(unsigned int)                      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Angka5(int)                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Angka5u(unsigned int)                      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::BackLight(unsigned char)                   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Biner(unsigned char)                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Data(unsigned char)                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Float(float, unsigned char)                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::GotoXY(unsigned char, unsigned char)       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Hapus()                                    obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::HapusBaris(unsigned char)                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::HapusKanan(unsigned char)                  obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::HapusKiri(unsigned char)                   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::HapusPinggir(unsigned char)                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::HapusTengah(unsigned char)                 obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Init()                                     obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::InitCmd(unsigned char)                     obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Perintah(unsigned char)                    obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Text(char const*)                          obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::Tulis(unsigned char, char const*)          obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::TulisKanan(unsigned char, char const*)     obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::TulisKiri(unsigned char, char const*)      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::TulisPinggir(unsigned char, char const*)   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::TulisTengah(unsigned char, char const*)    obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::sByte(signed char)                         obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myLCD::uByte(unsigned char)                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myMotor::HitungPIDmotorKa()                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myMotor::HitungPIDmotorKi()                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myMotor::SpeedPID(signed char, signed char)       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myMotor::SpeedPWM(int, int)                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myMotor::Stop()                                   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myMotor::myMotor()                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myMotor::myMotor()                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::BelokKananGarisPID(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::BelokKananGarisPWM(unsigned int, unsigned int) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::BelokKananSampaiGarisPID(unsigned char, unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::BelokKiriGarisPID(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::BelokKiriGarisPWM(unsigned int, unsigned int) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::BelokKiriSampaiGarisPID(unsigned char, unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::CekSensor(unsigned char, unsigned char, unsigned char*) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::Scan(unsigned int)                   obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::Scan2Kanan(unsigned int)             obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::Scan2Kiri(unsigned int)              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::Scan3Kanan(unsigned int)             obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::Scan3Kiri(unsigned int)              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::Scan3Tengah(unsigned int)            obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::ScanBelokKanan(unsigned int, unsigned char, unsigned int, unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::ScanBelokKiri(unsigned int, unsigned char, unsigned int, unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::ScanCounter(unsigned int, int)       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::ScanSampaiSensor(unsigned int, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::ScanSelamaSensor(unsigned int, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::SetArahRobot(unsigned char)          obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::TungguSensorKananBelok()             obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::TungguSensorKiriBelok()              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::TungguSensorMasuk(unsigned char)     obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::UpdateSensorGaris(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::UpdateSensorPertigaan(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::myScanGaris()                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myScanGaris::myScanGaris()                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+mySensorGaris::BacaGaris(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+mySensorGaris::KalibrasiRB(unsigned char)         obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+mySensorGaris::KalibrasiRGB(unsigned char)        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+mySensorGaris::PesanKalibrasiBerhasil()           obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+mySensorGaris::PesanKalibrasiGagal()              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+mySensorGaris::PesanSensor()                      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+mySensorGaris::TungguTombolKalibrasi(unsigned char, unsigned char) obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myServo::HitungSudut(unsigned char)               obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myServo::HitungSudut2(unsigned char)              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myServo::myServo()                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+myServo::myServo()                                obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+putchar1(signed char)                             obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+roda                                              obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+rx_buffer1                                        obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+rx_buffer_overflow1                               obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+rx_counter1                                       obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+rx_rd_index1                                      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+rx_wr_index1                                      obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+sensor                                            obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+servo                                             obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o
+xxx                                               obj\Release\18. Line Tracer - Sensor Depan Belakang\main.o

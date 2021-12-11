@@ -1,0 +1,5 @@
+Kesimpulan
+1. Untuk memrogram sebuah ic atmel bisa digunakan berbagai macam IDE, contoh: Arduino IDE, CodeVision AVR, CodeBlocks dsb
+2. Yang terpenting dalam memrogram sebuah ic atmel adalah cocoknya compiler yang digunakan (avr toolchain)
+3. dan banyak berbagai macam cara untuk memasukkan program ke dalam IC atmel salah satunya menggunakan Khazama PRogrammer / avrdudes (dengan usb asp)
+4. untuk IDE ada karakteristik tersendiri untuk macam macam IDE, misalnya dalam pembacaan data dari port maupun penulisan

@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1434546545 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\main.cpp
+	"include/mySystem.h"
+
+1434541382 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\mysystem.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myModule.h"
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+
+1434534294 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\mymodule.h
+
+1434519340 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\mydefinitions.h
+
+1433953622 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\myglobalvars.h
+
+1434006042 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\mymotor.h
+	"myGlobalVars.h"
+
+1434169950 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\mybuzzer.h
+
+1434546763 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\mylcd.h
+
+1434010418 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\myadc.h
+
+1433695770 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\myi2c.h
+
+1434546655 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\myimu.h
+	"myMPU6050reg.h"
+
+1433950459 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\05. imu (accelerometer dan gyroscope)\include\mympu6050reg.h
+
+1434706278 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\main.cpp
+	"include/mySystem.h"
+
+1434675965 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\mysystem.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myModule.h"
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+
+1434534294 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\mymodule.h
+
+1434684071 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\mydefinitions.h
+
+1433953622 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\myglobalvars.h
+
+1434684193 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\mymotor.h
+	"myGlobalVars.h"
+
+1434676615 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\mybuzzer.h
+
+1434706237 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\mylcd.h
+
+1434010418 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\myadc.h
+
+1434607687 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\myi2c.h
+
+1434618776 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\myimu.h
+	"myMPU6050reg.h"
+
+1433950459 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\09. imu (accelerometer dan gyroscope)\include\mympu6050reg.h
+
+1434791149 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\10. imu (accelerometer dan gyroscope)\main.cpp
+	"myModule.h"
+	"../AdRoiT_Files/mySystem.h"
+
+1434791194 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\10. imu (accelerometer dan gyroscope)\mymodule.h
+
+1434788269 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mysystem.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myUART.h"
+	"myLineSensor.h"
+
+1434684071 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mydefinitions.h
+
+1434782206 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myglobalvars.h
+
+1434684193 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mymotor.h
+	"myGlobalVars.h"
+
+1434676615 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mybuzzer.h
+
+1434692476 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mylcd.h
+
+1434010418 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myadc.h
+
+1434705409 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myi2c.h
+
+1434713038 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myimu.h
+	"myMPU6050reg.h"
+
+1433950459 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mympu6050reg.h
+
+1434766299 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mycompass.h
+
+1434784166 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\myuart.h
+
+1432988456 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\adroit\adroit_files\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1434791311 source:c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\11. imu dengan kalman filter\main.cpp
+	"myModule.h"
+	"../AdRoiT_Files/mySystem.h"
+
+1434791194 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\11. imu dengan kalman filter\mymodule.h
+
+1448422866 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mysystem.h
+	<avr/io.h>
+	<avr/eeprom.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	<math.h>
+	"myDefinitions.h"
+	"myGlobalVars.h"
+	"myUART.h"
+	"myMotor.h"
+	"myBuzzer.h"
+	"mylcd.h"
+	"myADC.h"
+	"myI2C.h"
+	"myIMU_DMP.h"
+	"myIMU.h"
+	"myCompass.h"
+	"myLineSensor.h"
+	"myADROIT.h"
+	"myMPU6050.h"
+
+1441949600 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mydefinitions.h
+
+1435198079 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myglobalvars.h
+
+1435162341 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myuart.h
+
+1435163130 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mymotor.h
+	"myGlobalVars.h"
+
+1435591273 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mybuzzer.h
+
+1435206940 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mylcd.h
+
+1435270692 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myadc.h
+
+1435458626 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myi2c.h
+
+1435676601 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myimu_dmp.h
+	"myMPU6050.h"
+
+1435675306 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mympu6050.h
+	<stdlib.h>
+	<string.h>
+
+1448426998 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myimu.h
+	"myMPU6050.h"
+
+1435310036 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mycompass.h
+
+1435163184 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mylinesensor.h
+	"mylcd.h"
+	"myBuzzer.h"
+	"myUART.h"
+
+1443588462 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\myadroit.h
+
+1448422929 c:\users\eko henfri\dropbox\er2c.share\er2c robot education\program\adroit\adroit projects\projects\adroit_files\mympu6050reg.h
+

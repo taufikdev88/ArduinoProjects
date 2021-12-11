@@ -1,0 +1,6 @@
+Analisa
+1. data dikirim dan diterima sesuai dengan praktikum kemarin yang hanya saja dilakukan secara terus menerus menggunakan timer di visual studio
+2. perbedaan mencolok baudrate 9600 dan 115200 adalah respon yang diterima di bagian windows semakin cepat, jelas saja karena kecepatan transfer ditingkatkan tetapi jalurnya tetap pendek
+
+kesimpulan
+untuk memudahkan dalam pembacaan sensor atau pemberian instruksi ke mikro lebih gampang dilakukan melalui GUI

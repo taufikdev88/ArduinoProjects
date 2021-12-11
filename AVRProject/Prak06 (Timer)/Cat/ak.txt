@@ -1,0 +1,24 @@
+analisa
+1. pada prosedur 1, saat menggunakan frekwensi value nya 11059200 dan menggunakannya untuk overflow
+interrupt dan digunakan sebagai pembangkit pulsa di salah satu pin dari port B, frekuensi dari 
+sinyal yang keluar adalah 21,5 KHz, dan sesuai hitungan frekuensi dari overflow interrupt adalah 2 kali
+dari frekuensi sinyal yang keluar di osiloskop berarti 43,200. dan itu sesuai dengan perhitungan
+karena lebar data dari timer 0 adalah 8 bit maka, akan ada counter dari 0 sampai 255 sebanyak 43,200 kali dalam satu detik
+
+2. pada prosedur 2, mode yang digunakan adalah ctc dan menggunakan timer 0 dengan frekuensi value 110592
+dan sesuai hitungan, seperti pada analisa 1 , frekuensi yang muncul pada osiloskop adalah 43,200Hz
+
+3. pada tugas 1a, untuk memunculkan sinyal kotak dengan frekuensi 100hz yaitu dengan memasukkan rumus
+bahwa frekuensi dari comparematch adalah 2 kali nilai frekuensi yang keluar toggle, maka dari itu dimasukkanlah
+nilai yang diinginkan dalam hal ini 100hz x 2 = 200, lalu mencari nilai OCR dengan membagi frekuensi input dengan
+frekuensi comparematch, kali ini kita menggunakan frekuensi input 10800, dan hasil dari pembagiannya adalah
+10800/200 = 54 dalam desimal dan dikurangi 1 menjadi 53, dan diubah menjadi hexa menjadi 0x35. nilai OCR0 adlah 0x35
+dengan frekuensi input 10800 untuk menghasilkan 100hz
+
+4. pada tugas 2, terjadi ketelitian yang semakin besar karena lebar data yang banyak juga karena menggunakan timer 1
+yaitu 16 bit
+
+kesimpulan
+timer bisa digunakan pada mikro untuk keperluan-keperluan komputasi seperti multitasking atau pembangkit sinyal kotak / pwm
+timer bisa diambilkan dari internal mikro dan bisa juga diambilkan dari external. ada dua jenis mode yaitu mode normal dimana 
+mode normal akan selalu mencapai nilai overflow, dan mode ctc yang bisa membatasi nilai top dari lebar data yang dipunya oleh timer

@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:4F5C4E3D
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:F LEVEL:0 LINE:28 "stepper(unsigned int step,unsigned char cw,unsigned int del)"
+NODE:V LEVEL:0 LINE:29 "i_S0000000000 -> RAM:????"
+NODE:V LEVEL:0 LINE:30 "data_S0000000000 -> RAM:????"
+NODE:V LEVEL:0 LINE:31 "temp_S0000000000 -> RAM:????"
+NODE:F LEVEL:0 LINE:49 "map(long x,long in_min,long in_max,long out_min,long out_max)"
+NODE:F LEVEL:0 LINE:53 "main(void)"

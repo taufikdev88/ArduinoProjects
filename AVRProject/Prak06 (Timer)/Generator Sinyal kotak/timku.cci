@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:4E8B719B
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega8535.h"
+NODE:F LEVEL:0 LINE:27 "timer0_comp_isr(void)"
+NODE:F LEVEL:0 LINE:34 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:42 "main(void)"

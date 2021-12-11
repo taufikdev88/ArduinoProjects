@@ -1,0 +1,1523 @@
+Archive member included because of file (symbol)
+
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+                              obj\Release\11. Magnetic Compass\main.o (__udivmodqi4)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+                              obj\Release\11. Magnetic Compass\main.o (__udivmodhi4)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                              obj\Release\11. Magnetic Compass\main.o (__divmodhi4)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                              obj\Release\11. Magnetic Compass\main.o (__udivmodsi4)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o (exit)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                              obj\Release\11. Magnetic Compass\main.o (__do_copy_data)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                              obj\Release\11. Magnetic Compass\main.o (__do_clear_bss)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+                              obj\Release\11. Magnetic Compass\main.o (__do_global_ctors)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+                              obj\Release\11. Magnetic Compass\main.o (__mulhisi3)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o) (__umulhisi3)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o) (__usmulhisi3_tail)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o) (__tablejump_elpm__)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                              obj\Release\11. Magnetic Compass\main.o (__subsf3)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o) (__addsf3x)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+                              obj\Release\11. Magnetic Compass\main.o (atan)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+                              obj\Release\11. Magnetic Compass\main.o (__ltsf2)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+                              obj\Release\11. Magnetic Compass\main.o (cos)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                              obj\Release\11. Magnetic Compass\main.o (__divsf3)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o) (__divsf3x)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                              obj\Release\11. Magnetic Compass\main.o (__fixsfsi)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                              obj\Release\11. Magnetic Compass\main.o (__fixunssfsi)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                              obj\Release\11. Magnetic Compass\main.o (__floatunsisf)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o) (__fp_cmp)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_inf)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_nan)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o) (__fp_powser)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscA)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscB)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o) (__fp_rempio2)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o) (__fp_round)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o) (__fp_sinus)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_split3)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_zero)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+                              obj\Release\11. Magnetic Compass\main.o (__gtsf2)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(inverse.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o) (inverse)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                              obj\Release\11. Magnetic Compass\main.o (__mulsf3)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o) (__mulsf3x)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+                              obj\Release\11. Magnetic Compass\main.o (sin)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(square.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o) (square)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o) (__fp_mpack_finite)
+c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o) (__fp_powsodd)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ .text          0x00000000        0x0 obj\Release\11. Magnetic Compass\main.o
+ .text._Z7inversef
+                0x00000000       0x1e obj\Release\11. Magnetic Compass\main.o
+ .text._Z4fabsf
+                0x00000000       0x30 obj\Release\11. Magnetic Compass\main.o
+ .text._Z4iabsi
+                0x00000000        0xc obj\Release\11. Magnetic Compass\main.o
+ .text._Z4cabsa
+                0x00000000       0x1a obj\Release\11. Magnetic Compass\main.o
+ .text._ZN7myServo11HitungSudutEh
+                0x00000000       0x16 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN7myServo12HitungSudut2Eh
+                0x00000000        0xe obj\Release\11. Magnetic Compass\main.o
+ .text._ZN7myMotor4StopEv
+                0x00000000       0x12 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN8myBuzzer5Nada4Ev
+                0x00000000       0x6a obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD10HapusBarisEh
+                0x00000000       0x26 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD9HapusKiriEh
+                0x00000000       0x38 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD10HapusKananEh
+                0x00000000       0x4a obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD12HapusPinggirEh
+                0x00000000       0x7a obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD10TulisKananEhPKc
+                0x00000000       0x72 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD12TulisPinggirEhPKc
+                0x00000000       0xb2 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD6Angka5Ei
+                0x00000000       0x52 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD6Angka4Ei
+                0x00000000       0x5c obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD6Angka3Ei
+                0x00000000       0x5c obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD5sByteEa
+                0x00000000       0x46 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myLCD5BinerEh
+                0x00000000       0x46 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myADCC2Ev
+                0x00000000        0xa obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myI2C4InitEv
+                0x00000000        0xc obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myI2C9Rep_StartEh
+                0x00000000        0x4 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myI2C16ReadBytesReverseEhhhPh
+                0x00000000       0x8a obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myI2C10WriteBytesEhhhPh
+                0x00000000       0x80 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myI2C7ReadBitEhhhPh
+                0x00000000       0x3e obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myI2C9WriteBitsEhhhhh
+                0x00000000       0x10 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU60505StartEv
+                0x00000000        0x6 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU60504StopEv
+                0x00000000        0x6 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU605012SleepEnabledEv
+                0x00000000       0x16 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU60509BacaGyroXEv
+                0x00000000       0x32 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU60509BacaGyroYEv
+                0x00000000       0x32 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU60509BacaGyroZEv
+                0x00000000       0x32 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU605012GetGyroRateXEv
+                0x00000000       0x28 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU605012GetGyroRateYEv
+                0x00000000       0x28 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN9myMPU605012GetGyroRateZEv
+                0x00000000       0x28 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L5StartEv
+                0x00000000        0x6 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L4StopEv
+                0x00000000        0x6 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L9SetMagCalEhff
+                0x00000000       0x7c obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L18GetSampleAveragingEv
+                0x00000000       0x36 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L18SetSampleAveragingEh
+                0x00000000       0x1c obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L11GetDataRateEv
+                0x00000000       0x36 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L11SetDataRateEh
+                0x00000000       0x1c obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L18GetMeasurementBiasEv
+                0x00000000       0x36 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L18SetMeasurementBiasEh
+                0x00000000       0x1c obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L7GetGainEv
+                0x00000000       0x36 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L7GetModeEv
+                0x00000000       0x36 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L13GetLockStatusEv
+                0x00000000       0x38 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN10myHMC5883L14GetReadyStatusEv
+                0x00000000       0x38 obj\Release\11. Magnetic Compass\main.o
+ .text._Z11BacaSerial1j
+                0x00000000       0x5a obj\Release\11. Magnetic Compass\main.o
+ .text._Z8getchar1v
+                0x00000000       0x36 obj\Release\11. Magnetic Compass\main.o
+ .text._Z8putchar1a
+                0x00000000        0xe obj\Release\11. Magnetic Compass\main.o
+ .text._ZN13mySensorGaris9BacaGarisEhh
+                0x00000000       0x3a obj\Release\11. Magnetic Compass\main.o
+ .text._ZN13mySensorGaris21TungguTombolKalibrasiEhh
+                0x00000000       0x22 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN13mySensorGaris11PesanSensorEv
+                0x00000000       0x16 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN13mySensorGaris22PesanKalibrasiBerhasilEv
+                0x00000000       0x12 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN13mySensorGaris19PesanKalibrasiGagalEv
+                0x00000000       0x12 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN13mySensorGaris12KalibrasiRGBEh
+                0x00000000      0x154 obj\Release\11. Magnetic Compass\main.o
+ .text._ZN13mySensorGaris11KalibrasiRBEh
+                0x00000000      0x122 obj\Release\11. Magnetic Compass\main.o
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(inverse.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(inverse.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(inverse.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(square.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(square.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(square.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+ .data          0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+ .bss           0x00000000        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+LOAD obj\Release\11. Magnetic Compass\main.o
+LOAD c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+START GROUP
+LOAD c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a
+LOAD c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a
+LOAD c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x3176
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x0000008c       0x2d c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+ .progmem.gcc_fplib
+                0x000000b9       0x1e c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+                0x000000d8                . = ALIGN (0x2)
+ *fill*         0x000000d7        0x1 
+                0x000000d8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000d8        0x0 linker stubs
+ *(.trampolines*)
+                0x000000d8                __trampolines_end = .
+ *(.progmem*)
+                0x000000d8                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000d8                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000d8        0x2 obj\Release\11. Magnetic Compass\main.o
+                0x000000da                __ctors_end = .
+                0x000000da                __dtors_start = .
+ *(.dtors)
+                0x000000da                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000da        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x000000da                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000da        0xc c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000e6       0x1a c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                0x000000e6                __do_copy_data
+ .init4         0x00000100       0x10 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                0x00000100                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000110       0x20 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+                0x00000110                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000130        0x8 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+ *(.init9)
+ *(.text)
+ .text          0x00000138        0x4 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+                0x00000138                __vector_22
+                0x00000138                __vector_1
+                0x00000138                __vector_32
+                0x00000138                __vector_34
+                0x00000138                __vector_24
+                0x00000138                __vector_12
+                0x00000138                __bad_interrupt
+                0x00000138                __vector_6
+                0x00000138                __vector_31
+                0x00000138                __vector_3
+                0x00000138                __vector_23
+                0x00000138                __vector_25
+                0x00000138                __vector_13
+                0x00000138                __vector_17
+                0x00000138                __vector_19
+                0x00000138                __vector_27
+                0x00000138                __vector_5
+                0x00000138                __vector_33
+                0x00000138                __vector_4
+                0x00000138                __vector_2
+                0x00000138                __vector_21
+                0x00000138                __vector_15
+                0x00000138                __vector_29
+                0x00000138                __vector_26
+                0x00000138                __vector_10
+                0x00000138                __vector_16
+                0x00000138                __vector_18
+                0x00000138                __vector_20
+                0x0000013c                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN5myLCD9BackLightEh.part.3
+                0x0000013c        0x8 obj\Release\11. Magnetic Compass\main.o
+ .text._Z8delay_msj
+                0x00000144       0x14 obj\Release\11. Magnetic Compass\main.o
+                0x00000144                _Z8delay_msj
+ .text._Z7invSqrtf
+                0x00000158       0x76 obj\Release\11. Magnetic Compass\main.o
+                0x00000158                _Z7invSqrtf
+ .text._ZN7myServoC2Ev
+                0x000001ce       0x16 obj\Release\11. Magnetic Compass\main.o
+                0x000001ce                _ZN7myServoC1Ev
+                0x000001ce                _ZN7myServoC2Ev
+ .text._ZN7myMotorC2Ev
+                0x000001e4       0x1c obj\Release\11. Magnetic Compass\main.o
+                0x000001e4                _ZN7myMotorC1Ev
+                0x000001e4                _ZN7myMotorC2Ev
+ .text._ZN7myMotor8SpeedPWMEii
+                0x00000200       0x42 obj\Release\11. Magnetic Compass\main.o
+                0x00000200                _ZN7myMotor8SpeedPWMEii
+ .text._ZN8myBuzzer3OffEv
+                0x00000242        0x8 obj\Release\11. Magnetic Compass\main.o
+                0x00000242                _ZN8myBuzzer3OffEv
+ .text._ZN8myBuzzer12SetFrekwensiEj
+                0x0000024a       0x80 obj\Release\11. Magnetic Compass\main.o
+                0x0000024a                _ZN8myBuzzer12SetFrekwensiEj
+ .text._ZN8myBuzzer4BeepEjj
+                0x000002ca       0x24 obj\Release\11. Magnetic Compass\main.o
+                0x000002ca                _ZN8myBuzzer4BeepEjj
+ .text._ZN8myBuzzer5Nada1Ev
+                0x000002ee       0x6a obj\Release\11. Magnetic Compass\main.o
+                0x000002ee                _ZN8myBuzzer5Nada1Ev
+ .text._ZN8myBuzzer5Nada2Ev
+                0x00000358       0x6a obj\Release\11. Magnetic Compass\main.o
+                0x00000358                _ZN8myBuzzer5Nada2Ev
+ .text._ZN8myBuzzer5Nada3Ev
+                0x000003c2       0x6a obj\Release\11. Magnetic Compass\main.o
+                0x000003c2                _ZN8myBuzzer5Nada3Ev
+ .text._ZN5myLCD7InitCmdEh
+                0x0000042c       0x12 obj\Release\11. Magnetic Compass\main.o
+                0x0000042c                _ZN5myLCD7InitCmdEh
+ .text._ZN5myLCD8PerintahEh
+                0x0000043e       0x56 obj\Release\11. Magnetic Compass\main.o
+                0x0000043e                _ZN5myLCD8PerintahEh
+ .text._ZN5myLCD4DataEh
+                0x00000494       0x52 obj\Release\11. Magnetic Compass\main.o
+                0x00000494                _ZN5myLCD4DataEh
+ .text._ZN5myLCD4InitEv
+                0x000004e6       0x96 obj\Release\11. Magnetic Compass\main.o
+                0x000004e6                _ZN5myLCD4InitEv
+ .text._ZN5myLCD6GotoXYEhh
+                0x0000057c        0xe obj\Release\11. Magnetic Compass\main.o
+                0x0000057c                _ZN5myLCD6GotoXYEhh
+ .text._ZN5myLCD4TextEPKc
+                0x0000058a       0x24 obj\Release\11. Magnetic Compass\main.o
+                0x0000058a                _ZN5myLCD4TextEPKc
+ .text._ZN5myLCD5TulisEhPKc
+                0x000005ae       0x24 obj\Release\11. Magnetic Compass\main.o
+                0x000005ae                _ZN5myLCD5TulisEhPKc
+ .text._ZN5myLCD5HapusEv
+                0x000005d2       0x14 obj\Release\11. Magnetic Compass\main.o
+                0x000005d2                _ZN5myLCD5HapusEv
+ .text._ZN5myLCD11HapusTengahEh
+                0x000005e6       0x78 obj\Release\11. Magnetic Compass\main.o
+                0x000005e6                _ZN5myLCD11HapusTengahEh
+ .text._ZN5myLCD9TulisKiriEhPKc
+                0x0000065e       0x62 obj\Release\11. Magnetic Compass\main.o
+                0x0000065e                _ZN5myLCD9TulisKiriEhPKc
+ .text._ZN5myLCD11TulisTengahEhPKc
+                0x000006c0       0xb0 obj\Release\11. Magnetic Compass\main.o
+                0x000006c0                _ZN5myLCD11TulisTengahEhPKc
+ .text._ZN5myLCD7Angka3uEj
+                0x00000770       0x5e obj\Release\11. Magnetic Compass\main.o
+                0x00000770                _ZN5myLCD7Angka3uEj
+ .text._ZN5myLCD7Angka4uEj
+                0x000007ce       0x2e obj\Release\11. Magnetic Compass\main.o
+                0x000007ce                _ZN5myLCD7Angka4uEj
+ .text._ZN5myLCD7Angka5uEj
+                0x000007fc       0x2e obj\Release\11. Magnetic Compass\main.o
+                0x000007fc                _ZN5myLCD7Angka5uEj
+ .text._ZN5myLCD5uByteEh
+                0x0000082a       0x52 obj\Release\11. Magnetic Compass\main.o
+                0x0000082a                _ZN5myLCD5uByteEh
+ .text._ZN5myLCD5FloatEfh
+                0x0000087c      0x1bc obj\Release\11. Magnetic Compass\main.o
+                0x0000087c                _ZN5myLCD5FloatEfh
+ .text._ZN5myLCD9BackLightEh
+                0x00000a38        0xe obj\Release\11. Magnetic Compass\main.o
+                0x00000a38                _ZN5myLCD9BackLightEh
+ .text._ZN5myADC4BacaEh
+                0x00000a46       0x20 obj\Release\11. Magnetic Compass\main.o
+                0x00000a46                _ZN5myADC4BacaEh
+ .text._ZN5myADC10BacaBatereEv
+                0x00000a66       0x1e obj\Release\11. Magnetic Compass\main.o
+                0x00000a66                _ZN5myADC10BacaBatereEv
+ .text._ZN5myADC9CekBatereEv
+                0x00000a84       0xae obj\Release\11. Magnetic Compass\main.o
+                0x00000a84                _ZN5myADC9CekBatereEv
+ .text._ZN5myI2C5StartEh
+                0x00000b32       0x46 obj\Release\11. Magnetic Compass\main.o
+                0x00000b32                _ZN5myI2C5StartEh
+ .text._ZN5myI2C10Start_WaitEh
+                0x00000b78       0x4e obj\Release\11. Magnetic Compass\main.o
+                0x00000b78                _ZN5myI2C10Start_WaitEh
+ .text._ZN5myI2C4StopEv
+                0x00000bc6       0x10 obj\Release\11. Magnetic Compass\main.o
+                0x00000bc6                _ZN5myI2C4StopEv
+ .text._ZN5myI2C5WriteEh
+                0x00000bd6       0x22 obj\Release\11. Magnetic Compass\main.o
+                0x00000bd6                _ZN5myI2C5WriteEh
+ .text._ZN5myI2C7ReadAckEv
+                0x00000bf8       0x14 obj\Release\11. Magnetic Compass\main.o
+                0x00000bf8                _ZN5myI2C7ReadAckEv
+ .text._ZN5myI2C7ReadNakEv
+                0x00000c0c       0x14 obj\Release\11. Magnetic Compass\main.o
+                0x00000c0c                _ZN5myI2C7ReadNakEv
+ .text._ZN5myI2C8ReadByteEhhPh
+                0x00000c20       0x60 obj\Release\11. Magnetic Compass\main.o
+                0x00000c20                _ZN5myI2C8ReadByteEhhPh
+ .text._ZN5myI2C9WriteByteEhhh
+                0x00000c80       0x3e obj\Release\11. Magnetic Compass\main.o
+                0x00000c80                _ZN5myI2C9WriteByteEhhh
+ .text._ZN5myI2C9WriteBitsEhhhhh.part.6
+                0x00000cbe       0x8c obj\Release\11. Magnetic Compass\main.o
+ .text._ZN5myI2C8ReadBitsEhhhhPh
+                0x00000d4a       0x78 obj\Release\11. Magnetic Compass\main.o
+                0x00000d4a                _ZN5myI2C8ReadBitsEhhhhPh
+ .text._ZN5myI2C8WriteBitEhhhh
+                0x00000dc2       0x68 obj\Release\11. Magnetic Compass\main.o
+                0x00000dc2                _ZN5myI2C8WriteBitEhhhh
+ .text._ZN9myMPU605013SleepDisabledEv
+                0x00000e2a       0x16 obj\Release\11. Magnetic Compass\main.o
+                0x00000e2a                _ZN9myMPU605013SleepDisabledEv
+ .text._ZN9myMPU605014TestConnectionEv
+                0x00000e40       0x3e obj\Release\11. Magnetic Compass\main.o
+                0x00000e40                _ZN9myMPU605014TestConnectionEv
+ .text._ZN9myMPU60504InitEv
+                0x00000e7e       0xc4 obj\Release\11. Magnetic Compass\main.o
+                0x00000e7e                _ZN9myMPU60504InitEv
+ .text._ZN9myMPU605017StartBacaRegisterEh
+                0x00000f42       0x2c obj\Release\11. Magnetic Compass\main.o
+                0x00000f42                _ZN9myMPU605017StartBacaRegisterEh
+ .text._ZN9myMPU605017BacaAccelerometerEv
+                0x00000f6e       0x5e obj\Release\11. Magnetic Compass\main.o
+                0x00000f6e                _ZN9myMPU605017BacaAccelerometerEv
+ .text._ZN9myMPU605013BacaGyroScopeEv
+                0x00000fcc       0x5e obj\Release\11. Magnetic Compass\main.o
+                0x00000fcc                _ZN9myMPU605013BacaGyroScopeEv
+ .text._ZN9myMPU605018KalibrasiGyroScopeEv
+                0x0000102a      0x10e obj\Release\11. Magnetic Compass\main.o
+                0x0000102a                _ZN9myMPU605018KalibrasiGyroScopeEv
+ .text._ZN9myMPU605016HitungKalmanRollEv
+                0x00001138      0x4d0 obj\Release\11. Magnetic Compass\main.o
+                0x00001138                _ZN9myMPU605016HitungKalmanRollEv
+ .text._ZN9myMPU605017HitungKalmanPitchEv
+                0x00001608      0x4ce obj\Release\11. Magnetic Compass\main.o
+                0x00001608                _ZN9myMPU605017HitungKalmanPitchEv
+ .text._ZN9myMPU60509HitungYawEv
+                0x00001ad6       0x4c obj\Release\11. Magnetic Compass\main.o
+                0x00001ad6                _ZN9myMPU60509HitungYawEv
+ .text._ZN10myHMC5883L17GetCompassHeadingEv
+                0x00001b22      0x21e obj\Release\11. Magnetic Compass\main.o
+                0x00001b22                _ZN10myHMC5883L17GetCompassHeadingEv
+ .text._ZN10myHMC5883L14TestConnectionEv
+                0x00001d40       0x6a obj\Release\11. Magnetic Compass\main.o
+                0x00001d40                _ZN10myHMC5883L14TestConnectionEv
+ .text._ZN10myHMC5883L7SetGainEh
+                0x00001daa       0x14 obj\Release\11. Magnetic Compass\main.o
+                0x00001daa                _ZN10myHMC5883L7SetGainEh
+ .text._ZN10myHMC5883L7SetModeEh
+                0x00001dbe       0x24 obj\Release\11. Magnetic Compass\main.o
+                0x00001dbe                _ZN10myHMC5883L7SetModeEh
+ .text._ZN10myHMC5883L14ReadMagnetoRawEv
+                0x00001de2       0x92 obj\Release\11. Magnetic Compass\main.o
+                0x00001de2                _ZN10myHMC5883L14ReadMagnetoRawEv
+ .text._ZN10myHMC5883L15GetMinMaxValuesEv
+                0x00001e74      0x1f0 obj\Release\11. Magnetic Compass\main.o
+                0x00001e74                _ZN10myHMC5883L15GetMinMaxValuesEv
+ .text._ZN10myHMC5883L4InitEv
+                0x00002064      0x2ac obj\Release\11. Magnetic Compass\main.o
+                0x00002064                _ZN10myHMC5883L4InitEv
+ .text.__vector_30
+                0x00002310       0x84 obj\Release\11. Magnetic Compass\main.o
+                0x00002310                __vector_30
+ .text.__vector_7
+                0x00002394       0x4e obj\Release\11. Magnetic Compass\main.o
+                0x00002394                __vector_7
+ .text.__vector_8
+                0x000023e2       0x4e obj\Release\11. Magnetic Compass\main.o
+                0x000023e2                __vector_8
+ .text.__vector_28
+                0x00002430       0x44 obj\Release\11. Magnetic Compass\main.o
+                0x00002430                __vector_28
+ .text.__vector_11
+                0x00002474       0x36 obj\Release\11. Magnetic Compass\main.o
+                0x00002474                __vector_11
+ .text.__vector_14
+                0x000024aa       0xb2 obj\Release\11. Magnetic Compass\main.o
+                0x000024aa                __vector_14
+ .text.__vector_9
+                0x0000255c       0x66 obj\Release\11. Magnetic Compass\main.o
+                0x0000255c                __vector_9
+ .text._Z10SystemInitv
+                0x000025c2      0x24a obj\Release\11. Magnetic Compass\main.o
+                0x000025c2                _Z10SystemInitv
+ .text.startup.main
+                0x0000280c      0x2b6 obj\Release\11. Magnetic Compass\main.o
+                0x0000280c                main
+ .text.startup._GLOBAL__sub_I__Z8delay_msj
+                0x00002ac2       0x1a obj\Release\11. Magnetic Compass\main.o
+ .text.libgcc.div
+                0x00002adc       0x18 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+                0x00002adc                __udivmodqi4
+ .text.libgcc.div
+                0x00002af4       0x28 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+                0x00002af4                __udivmodhi4
+ .text.libgcc.div
+                0x00002b1c       0x28 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                0x00002b1c                _div
+                0x00002b1c                __divmodhi4
+ .text.libgcc.div
+                0x00002b44       0x44 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                0x00002b44                __udivmodsi4
+ .text.libgcc.mul
+                0x00002b88       0x10 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+                0x00002b88                __mulhisi3
+ .text.libgcc.mul
+                0x00002b98       0x1e c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                0x00002b98                __umulhisi3
+ .text.libgcc.mul
+                0x00002bb6        0xe c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+                0x00002bb6                __usmulhisi3
+                0x00002bba                __usmulhisi3_tail
+ .text.libgcc   0x00002bc4        0x8 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+                0x00002bc4                __tablejump_elpm__
+ .text.avr-libc.fplib
+                0x00002bcc        0xa c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                0x00002bcc                __subsf3
+                0x00002bce                __addsf3
+ .text.avr-libc.fplib
+                0x00002bd6       0xc0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                0x00002bf0                __addsf3x
+ .text.avr-libc.fplib
+                0x00002c96       0x50 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+                0x00002c96                atan
+ .text.avr-libc.fplib
+                0x00002ce6        0x8 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+                0x00002ce6                __nesf2
+                0x00002ce6                __eqsf2
+                0x00002ce6                __cmpsf2
+                0x00002ce6                __ltsf2
+                0x00002ce6                __lesf2
+ .text.avr-libc.fplib
+                0x00002cee        0x6 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+                0x00002cee                cos
+ .text.avr-libc.fplib
+                0x00002cf4        0x4 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                0x00002cf4                __divsf3
+ .text.avr-libc.fplib
+                0x00002cf8       0xcc c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                0x00002d0e                __divsf3x
+                0x00002d12                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00002dc4        0xa c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                0x00002dc4                __fixsfsi
+ .text.avr-libc.fplib
+                0x00002dce       0x58 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                0x00002dce                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00002e26       0x7a c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                0x00002e26                __floatunsisf
+                0x00002e2a                __floatsisf
+ .text.avr-libc.fplib
+                0x00002ea0       0x48 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+                0x00002ea0                __fp_cmp
+ .text.avr-libc.fplib
+                0x00002ee8        0xc c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                0x00002ee8                __fp_inf
+ .text.avr-libc.fplib
+                0x00002ef4        0x6 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                0x00002ef4                __fp_nan
+ .text.avr-libc.fplib
+                0x00002efa       0x4a c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+                0x00002efa                __fp_powser
+ .text.avr-libc.fplib
+                0x00002f44        0xe c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                0x00002f44                __fp_pscA
+ .text.avr-libc.fplib
+                0x00002f52        0xe c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                0x00002f52                __fp_pscB
+ .text.avr-libc.fplib
+                0x00002f60       0x50 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+                0x00002f62                __fp_rempio2
+ .text.avr-libc.fplib
+                0x00002fb0       0x22 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                0x00002fb0                __fp_round
+ .text.avr-libc.fplib
+                0x00002fd2       0x22 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+                0x00002fd2                __fp_sinus
+ .text.avr-libc.fplib
+                0x00002ff4       0x44 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                0x00002ff4                __fp_split3
+                0x00003004                __fp_splitA
+ .text.avr-libc.fplib
+                0x00003038        0xe c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                0x00003038                __fp_zero
+                0x0000303a                __fp_szero
+ .text.avr-libc.fplib
+                0x00003046        0x8 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+                0x00003046                __gesf2
+                0x00003046                __gtsf2
+ .text.avr-libc.fplib
+                0x0000304e        0xe c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(inverse.o)
+                0x0000304e                inverse
+ .text.avr-libc.fplib
+                0x0000305c        0x4 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                0x0000305c                __mulsf3
+ .text.avr-libc.fplib
+                0x00003060       0xc2 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                0x00003074                __mulsf3x
+                0x00003078                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00003122        0xc c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+                0x00003122                sin
+ .text.avr-libc.fplib
+                0x0000312e        0x6 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(square.o)
+                0x0000312e                square
+ .text.avr-libc.fplib
+                0x00003134       0x1c c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+                0x00003134                __fp_mpack
+                0x00003138                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x00003150       0x22 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+                0x00003150                __fp_powsodd
+                0x00003172                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003172        0x0 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                0x00003172                _exit
+                0x00003172                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003172        0x4 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00003176                _etext = .
+
+.data           0x00800100      0x1f8 load address 0x00003176
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x2 obj\Release\11. Magnetic Compass\main.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800102      0x1f6 obj\Release\11. Magnetic Compass\main.o
+ *(.gnu.linkonce.d*)
+                0x008002f8                . = ALIGN (0x2)
+                0x008002f8                _edata = .
+                0x008002f8                PROVIDE (__data_end, .)
+
+.bss            0x008002f8       0xac
+                0x008002f8                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008002f8       0xac obj\Release\11. Magnetic Compass\main.o
+                0x008002f8                xxx
+                0x008002fa                sensor
+                0x008002fb                rx_buffer_overflow1
+                0x008002fc                rx_counter1
+                0x008002fd                rx_rd_index1
+                0x008002fe                rx_wr_index1
+                0x008002ff                rx_buffer1
+                0x0080030f                kompas
+                0x00800346                imu
+                0x00800372                i2c
+                0x00800373                adc
+                0x00800374                lcd
+                0x00800375                buzzer
+                0x00800376                roda
+                0x0080037e                servo
+ *(.bss*)
+ *(COMMON)
+                0x008003a4                PROVIDE (__bss_end, .)
+                0x00003176                __data_load_start = LOADADDR (.data)
+                0x0000336e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008003a4        0x0
+                0x008003a4                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008003a4                PROVIDE (__noinit_end, .)
+                0x008003a4                _end = .
+                0x008003a4                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 obj\Release\11. Magnetic Compass\main.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(bin\Release\Mag_Compass.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+BacaSerial1(unsigned int)                         obj\Release\11. Magnetic Compass\main.o
+SystemInit()                                      obj\Release\11. Magnetic Compass\main.o
+__addsf3                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__addsf3x                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__bad_interrupt                                   c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__bss_end                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+__cmpsf2                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__ctors_end                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+__ctors_start                                     c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+__data_end                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+__data_start                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__divsf3                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(inverse.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__divsf3_pse                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+__divsf3x                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+__do_clear_bss                                    c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_clear_bss.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__do_copy_data                                    c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_copy_data.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__do_global_ctors                                 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__eqsf2                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__fixsfsi                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__fixunssfsi                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__floatsisf                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__floatunsisf                                     c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__fp_cmp                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__fp_inf                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_mpack                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+__fp_mpack_finite                                 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+__fp_nan                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_powser                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+__fp_powsodd                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+__fp_pscA                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_pscB                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_rempio2                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+__fp_round                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__fp_sinus                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_sinus.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+__fp_split3                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_splitA                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_rempio2.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+__fp_szero                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixsfsi.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+__fp_zero                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__gesf2                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+__gtsf2                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(gesf2.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__heap_end                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__init                                            c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__lesf2                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__ltsf2                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__mulhisi3                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__mulsf3                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powsodd.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(square.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__mulsf3_pse                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+__mulsf3x                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+__nesf2                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+__stack                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__subsf3                                          c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__tablejump_elpm__                                c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_tablejump_elpm.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_ctors.o)
+__udivmodhi4                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodhi4.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__udivmodqi4                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodqi4.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__udivmodsi4                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_udivmodsi4.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+__umulhisi3                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_umulhisi3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+__usmulhisi3                                      c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+__usmulhisi3_tail                                 c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_usmulhisi3.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_mulhisi3.o)
+__vector_1                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_10                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_11                                       obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_12                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_13                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_14                                       obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_15                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_16                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_17                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_18                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_19                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_2                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_20                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_21                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_22                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_23                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_24                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_25                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_26                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_27                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_28                                       obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_29                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_3                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_30                                       obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_31                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_32                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_33                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_34                                       c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_4                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_5                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_6                                        c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_7                                        obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_8                                        obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_9                                        obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vector_default                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+__vectors                                         c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+_div                                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_divmodhi4.o)
+_exit                                             c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+adc                                               obj\Release\11. Magnetic Compass\main.o
+atan                                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+buzzer                                            obj\Release\11. Magnetic Compass\main.o
+cabs(signed char)                                 obj\Release\11. Magnetic Compass\main.o
+cos                                               c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(cos.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+delay_ms(unsigned int)                            obj\Release\11. Magnetic Compass\main.o
+exit                                              c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr51\libgcc.a(_exit.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+fabs(float)                                       obj\Release\11. Magnetic Compass\main.o
+getchar1()                                        obj\Release\11. Magnetic Compass\main.o
+i2c                                               obj\Release\11. Magnetic Compass\main.o
+iabs(int)                                         obj\Release\11. Magnetic Compass\main.o
+imu                                               obj\Release\11. Magnetic Compass\main.o
+invSqrt(float)                                    obj\Release\11. Magnetic Compass\main.o
+inverse                                           c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(inverse.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+inverse(float)                                    obj\Release\11. Magnetic Compass\main.o
+kompas                                            obj\Release\11. Magnetic Compass\main.o
+lcd                                               obj\Release\11. Magnetic Compass\main.o
+main                                              obj\Release\11. Magnetic Compass\main.o
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51/crtm128.o
+myADC::Baca(unsigned char)                        obj\Release\11. Magnetic Compass\main.o
+myADC::BacaBatere()                               obj\Release\11. Magnetic Compass\main.o
+myADC::CekBatere()                                obj\Release\11. Magnetic Compass\main.o
+myADC::myADC()                                    obj\Release\11. Magnetic Compass\main.o
+myADC::myADC()                                    obj\Release\11. Magnetic Compass\main.o
+myBuzzer::Beep(unsigned int, unsigned int)        obj\Release\11. Magnetic Compass\main.o
+myBuzzer::Nada1()                                 obj\Release\11. Magnetic Compass\main.o
+myBuzzer::Nada2()                                 obj\Release\11. Magnetic Compass\main.o
+myBuzzer::Nada3()                                 obj\Release\11. Magnetic Compass\main.o
+myBuzzer::Nada4()                                 obj\Release\11. Magnetic Compass\main.o
+myBuzzer::Off()                                   obj\Release\11. Magnetic Compass\main.o
+myBuzzer::SetFrekwensi(unsigned int)              obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetCompassHeading()                   obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetDataRate()                         obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetGain()                             obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetLockStatus()                       obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetMeasurementBias()                  obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetMinMaxValues()                     obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetMode()                             obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetReadyStatus()                      obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::GetSampleAveraging()                  obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::Init()                                obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::ReadMagnetoRaw()                      obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::SetDataRate(unsigned char)            obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::SetGain(unsigned char)                obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::SetMagCal(unsigned char, float, float) obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::SetMeasurementBias(unsigned char)     obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::SetMode(unsigned char)                obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::SetSampleAveraging(unsigned char)     obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::Start()                               obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::Stop()                                obj\Release\11. Magnetic Compass\main.o
+myHMC5883L::TestConnection()                      obj\Release\11. Magnetic Compass\main.o
+myI2C::Init()                                     obj\Release\11. Magnetic Compass\main.o
+myI2C::ReadAck()                                  obj\Release\11. Magnetic Compass\main.o
+myI2C::ReadBit(unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\11. Magnetic Compass\main.o
+myI2C::ReadBits(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\11. Magnetic Compass\main.o
+myI2C::ReadByte(unsigned char, unsigned char, unsigned char*) obj\Release\11. Magnetic Compass\main.o
+myI2C::ReadBytesReverse(unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\11. Magnetic Compass\main.o
+myI2C::ReadNak()                                  obj\Release\11. Magnetic Compass\main.o
+myI2C::Rep_Start(unsigned char)                   obj\Release\11. Magnetic Compass\main.o
+myI2C::Start(unsigned char)                       obj\Release\11. Magnetic Compass\main.o
+myI2C::Start_Wait(unsigned char)                  obj\Release\11. Magnetic Compass\main.o
+myI2C::Stop()                                     obj\Release\11. Magnetic Compass\main.o
+myI2C::Write(unsigned char)                       obj\Release\11. Magnetic Compass\main.o
+myI2C::WriteBit(unsigned char, unsigned char, unsigned char, unsigned char) obj\Release\11. Magnetic Compass\main.o
+myI2C::WriteBits(unsigned char, unsigned char, unsigned char, unsigned char, unsigned char) obj\Release\11. Magnetic Compass\main.o
+myI2C::WriteByte(unsigned char, unsigned char, unsigned char) obj\Release\11. Magnetic Compass\main.o
+myI2C::WriteBytes(unsigned char, unsigned char, unsigned char, unsigned char*) obj\Release\11. Magnetic Compass\main.o
+myLCD::Angka3(int)                                obj\Release\11. Magnetic Compass\main.o
+myLCD::Angka3u(unsigned int)                      obj\Release\11. Magnetic Compass\main.o
+myLCD::Angka4(int)                                obj\Release\11. Magnetic Compass\main.o
+myLCD::Angka4u(unsigned int)                      obj\Release\11. Magnetic Compass\main.o
+myLCD::Angka5(int)                                obj\Release\11. Magnetic Compass\main.o
+myLCD::Angka5u(unsigned int)                      obj\Release\11. Magnetic Compass\main.o
+myLCD::BackLight(unsigned char)                   obj\Release\11. Magnetic Compass\main.o
+myLCD::Biner(unsigned char)                       obj\Release\11. Magnetic Compass\main.o
+myLCD::Data(unsigned char)                        obj\Release\11. Magnetic Compass\main.o
+myLCD::Float(float, unsigned char)                obj\Release\11. Magnetic Compass\main.o
+myLCD::GotoXY(unsigned char, unsigned char)       obj\Release\11. Magnetic Compass\main.o
+myLCD::Hapus()                                    obj\Release\11. Magnetic Compass\main.o
+myLCD::HapusBaris(unsigned char)                  obj\Release\11. Magnetic Compass\main.o
+myLCD::HapusKanan(unsigned char)                  obj\Release\11. Magnetic Compass\main.o
+myLCD::HapusKiri(unsigned char)                   obj\Release\11. Magnetic Compass\main.o
+myLCD::HapusPinggir(unsigned char)                obj\Release\11. Magnetic Compass\main.o
+myLCD::HapusTengah(unsigned char)                 obj\Release\11. Magnetic Compass\main.o
+myLCD::Init()                                     obj\Release\11. Magnetic Compass\main.o
+myLCD::InitCmd(unsigned char)                     obj\Release\11. Magnetic Compass\main.o
+myLCD::Perintah(unsigned char)                    obj\Release\11. Magnetic Compass\main.o
+myLCD::Text(char const*)                          obj\Release\11. Magnetic Compass\main.o
+myLCD::Tulis(unsigned char, char const*)          obj\Release\11. Magnetic Compass\main.o
+myLCD::TulisKanan(unsigned char, char const*)     obj\Release\11. Magnetic Compass\main.o
+myLCD::TulisKiri(unsigned char, char const*)      obj\Release\11. Magnetic Compass\main.o
+myLCD::TulisPinggir(unsigned char, char const*)   obj\Release\11. Magnetic Compass\main.o
+myLCD::TulisTengah(unsigned char, char const*)    obj\Release\11. Magnetic Compass\main.o
+myLCD::sByte(signed char)                         obj\Release\11. Magnetic Compass\main.o
+myLCD::uByte(unsigned char)                       obj\Release\11. Magnetic Compass\main.o
+myMPU6050::BacaAccelerometer()                    obj\Release\11. Magnetic Compass\main.o
+myMPU6050::BacaGyroScope()                        obj\Release\11. Magnetic Compass\main.o
+myMPU6050::BacaGyroX()                            obj\Release\11. Magnetic Compass\main.o
+myMPU6050::BacaGyroY()                            obj\Release\11. Magnetic Compass\main.o
+myMPU6050::BacaGyroZ()                            obj\Release\11. Magnetic Compass\main.o
+myMPU6050::GetGyroRateX()                         obj\Release\11. Magnetic Compass\main.o
+myMPU6050::GetGyroRateY()                         obj\Release\11. Magnetic Compass\main.o
+myMPU6050::GetGyroRateZ()                         obj\Release\11. Magnetic Compass\main.o
+myMPU6050::HitungKalmanPitch()                    obj\Release\11. Magnetic Compass\main.o
+myMPU6050::HitungKalmanRoll()                     obj\Release\11. Magnetic Compass\main.o
+myMPU6050::HitungYaw()                            obj\Release\11. Magnetic Compass\main.o
+myMPU6050::Init()                                 obj\Release\11. Magnetic Compass\main.o
+myMPU6050::KalibrasiGyroScope()                   obj\Release\11. Magnetic Compass\main.o
+myMPU6050::SleepDisabled()                        obj\Release\11. Magnetic Compass\main.o
+myMPU6050::SleepEnabled()                         obj\Release\11. Magnetic Compass\main.o
+myMPU6050::Start()                                obj\Release\11. Magnetic Compass\main.o
+myMPU6050::StartBacaRegister(unsigned char)       obj\Release\11. Magnetic Compass\main.o
+myMPU6050::Stop()                                 obj\Release\11. Magnetic Compass\main.o
+myMPU6050::TestConnection()                       obj\Release\11. Magnetic Compass\main.o
+myMotor::SpeedPWM(int, int)                       obj\Release\11. Magnetic Compass\main.o
+myMotor::Stop()                                   obj\Release\11. Magnetic Compass\main.o
+myMotor::myMotor()                                obj\Release\11. Magnetic Compass\main.o
+myMotor::myMotor()                                obj\Release\11. Magnetic Compass\main.o
+mySensorGaris::BacaGaris(unsigned char, unsigned char) obj\Release\11. Magnetic Compass\main.o
+mySensorGaris::KalibrasiRB(unsigned char)         obj\Release\11. Magnetic Compass\main.o
+mySensorGaris::KalibrasiRGB(unsigned char)        obj\Release\11. Magnetic Compass\main.o
+mySensorGaris::PesanKalibrasiBerhasil()           obj\Release\11. Magnetic Compass\main.o
+mySensorGaris::PesanKalibrasiGagal()              obj\Release\11. Magnetic Compass\main.o
+mySensorGaris::PesanSensor()                      obj\Release\11. Magnetic Compass\main.o
+mySensorGaris::TungguTombolKalibrasi(unsigned char, unsigned char) obj\Release\11. Magnetic Compass\main.o
+myServo::HitungSudut(unsigned char)               obj\Release\11. Magnetic Compass\main.o
+myServo::HitungSudut2(unsigned char)              obj\Release\11. Magnetic Compass\main.o
+myServo::myServo()                                obj\Release\11. Magnetic Compass\main.o
+myServo::myServo()                                obj\Release\11. Magnetic Compass\main.o
+putchar1(signed char)                             obj\Release\11. Magnetic Compass\main.o
+roda                                              obj\Release\11. Magnetic Compass\main.o
+rx_buffer1                                        obj\Release\11. Magnetic Compass\main.o
+rx_buffer_overflow1                               obj\Release\11. Magnetic Compass\main.o
+rx_counter1                                       obj\Release\11. Magnetic Compass\main.o
+rx_rd_index1                                      obj\Release\11. Magnetic Compass\main.o
+rx_wr_index1                                      obj\Release\11. Magnetic Compass\main.o
+sensor                                            obj\Release\11. Magnetic Compass\main.o
+servo                                             obj\Release\11. Magnetic Compass\main.o
+sin                                               c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(sin.o)
+                                                  obj\Release\11. Magnetic Compass\main.o
+square                                            c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(square.o)
+                                                  c:/users/eko henfri/dropbox/er2c.share/er2c robot education/program/adroit/adroit projects/tools/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr51\libm.a(atan.o)
+xxx                                               obj\Release\11. Magnetic Compass\main.o

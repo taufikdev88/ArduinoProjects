@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1552547889 source:d:\belajar\avr project\prak02_2\gpio\main.c
+	<avr/io.h>
+

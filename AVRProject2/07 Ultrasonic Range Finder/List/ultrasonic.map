@@ -1,0 +1,21 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+rx_buffer1                                                        0x0500       8
+adc_data                                                          0x0508       8
+input_index                                                       0x0510       1
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+data1                                                             R5           1
+data2                                                             R4           1
+Jarak                                                             R6,R7        2
+rx_wr_index1                                                      R9           1
+rx_rd_index1                                                      R8           1
+rx_counter1                                                       R11          1
+rx_buffer_overflow1                                               R2.0      1bit

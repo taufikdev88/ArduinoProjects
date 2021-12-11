@@ -1,0 +1,9 @@
+analisa
+1. saat input diberi kondisi tristate, dan dipswitch hanya terkonfigurasi active low, maka kondisi input akan berubah-ubah tidak stabil / tidak sesuai inputan dipswitch
+
+kesimpulan
+1. untuk konfigurasi pin untuk digunakan sebagai input/output, digunakan perintah DDRx; x = nama port
+2. untuk membaca input/data digunakan perintah PINx atau PINx.n secara khusus; x = nama port; n = angka pin
+3. untuk mengeluarkan data menuju pin, digunakan perintah PORTx atau PORTx.n secara khusus; x = nama port; n = angka pin
+4. pengeluaran data ke led dengan program led berjalan alangkah baiknya diberi delay dengan tujuan biar bisa dilihat secara mata saat lampu berpindah, kalau tidak menggunakan delay maka lampu berpindah secepat clock speednya (walaupun masih dibagi dengan waktu eksekusi yang diperlukan untuk perintah PORTx)
+5. tambahkan sendiri

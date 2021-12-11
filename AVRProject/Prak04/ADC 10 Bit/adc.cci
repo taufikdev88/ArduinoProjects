@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:4E7C8326
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "D:\Belajar\AVR Project\Prak04\ADC 10 Bit\myLCD.h"
+NODE:M LEVEL:0 LINE:28 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:31 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:46 "main(void)"
